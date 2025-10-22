@@ -1,0 +1,9 @@
+supplier,category,sku,offer_price,contract_months,min_volume_units_per_month,promo_funding_pct,freight_included,rebate_pct,service_level_target_pct,lead_time_days,notes
+Unilever,Haircare,UNI-HAI-01,3.1,12,50000,2.0,yes,1.0,97,7,Volume bonus at 60k/mo
+Unilever,Oral Care,UNI-ORA-02,2.0,24,42000,1.5,yes,1.0,98,6,Endcap funding quarterly
+P&G,Haircare,PNG-HAI-01,3.2,12,52000,1.0,no,0.5,96,9,Better terms if 18 months
+P&G,Skincare,PNG-SKI-03,4.5,18,20000,0.8,yes,0.8,95,10,Lead time spike risk winter
+Own Label,Haircare,OWN-HAI-12,2.3,12,60000,0.0,yes,2.5,98,8,PL reformulation ready
+Own Label,Oral Care,OWN-ORA-08,1.4,24,55000,0.0,yes,2.0,98,8,Price holds 24 months
+Niche Snacks,Snacks,NIC-SNA-07,1.05,6,18000,3.0,no,0.0,92,12,Limited DC coverage
+Regional Dairy,Dairy,REG-DAI-05,0.85,12,75000,0.0,yes,1.2,97,5,Backhaul available

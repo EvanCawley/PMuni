@@ -1,0 +1,639 @@
+tender_id,supplier,sku_code,offer_price,contract_months,min_volume_units_per_month,lead_time_days,service_level_target_pct,freight_included,rebate_pct,promo_funding_pct,pack_size,uom,country_of_origin,certifications,allergens_present,bundle_offer_reference,bundle_discount_pct,notes
+TDR-MPKA2,EuroChem,SNA-025,1.16,6,66691,6,99,yes,1.5,1.25,300,L,EU,Vegan|Cruelty Free,none,BUNDLE-ORAL,3.3,Rebate tied to volume
+TDR-MPKA2,Acme Beauty,SNA-025,1.36,12,41225,7,98,yes,1.62,1.49,150,L,EU,-,milk,BUNDLE-HAIR,2.7,Bundle available
+TDR-MPKA2,Unilever,SNA-025,1.36,6,56273,10,99,yes,0.08,1.19,150,units,ES,FSC packaging,nuts,BUNDLE-ORAL,1.4,Rebate tied to volume
+TDR-MPKA2,OptiCare,SNA-025,1.22,24,56211,6,97,no,0.95,0.07,150,g,EU,FSC packaging,-,-,0.0,Bundle available
+TDR-MPKA2,Niche Snacks,SNA-025,1.34,12,48763,7,97,no,1.92,0.69,400,ml,UK,FSC packaging,nuts,BUNDLE-ORAL,1.1,Bundle available
+TDR-WY04X,OptiCare,ORA-015,2.55,6,44871,10,99,yes,1.85,1.44,75,units,UK,Vegan|Cruelty Free,nuts,BUNDLE-SKIN,2.3,Winter LT risk
+TDR-WY04X,Unilever,ORA-015,2.99,12,43942,14,98,no,0.69,1.16,150,units,UK,-,-,BUNDLE-SKIN,1.4,Rebate tied to volume
+TDR-WY04X,EuroChem,ORA-015,3.01,9,76222,9,96,yes,2.12,1.75,400,L,DE,FSC packaging,milk,BUNDLE-SKIN,2.1,Stable supply
+TDR-WY04X,Regional Dairy,ORA-015,2.84,12,45591,10,96,yes,0.65,1.55,150,units,FR,Vegan,nuts,BUNDLE-ORAL,2.6,Rebate tied to volume
+TDR-WY04X,GreenFoods,ORA-015,2.53,12,68260,8,97,no,1.45,0.51,2000,units,PL,Vegan,nuts,BUNDLE-HAIR,1.6,Stable supply
+TDR-LZC16,P&G,DAI-041,1.48,24,39131,6,97,yes,0.32,0.92,75,g,DE,-,-,BUNDLE-HAIR,3.6,Rebate tied to volume
+TDR-LZC16,GreenFoods,DAI-041,1.48,9,68719,10,96,no,1.26,0.45,75,units,FR,Vegan,-,BUNDLE-HAIR,2.8,Rebate tied to volume
+TDR-LZC16,Acme Beauty,DAI-041,1.52,18,58575,12,96,no,0.29,0.3,75,units,IE,FSC packaging,nuts,BUNDLE-HAIR,4.0,Rebate tied to volume
+TDR-LZC16,Niche Snacks,DAI-041,1.59,6,51642,7,98,no,1.86,0.87,50,units,EU,Vegan,milk,-,0.0,Bundle available
+TDR-LZC16,EuroChem,DAI-041,1.53,9,64115,9,98,yes,0.0,1.58,90,units,UK,Vegan|Cruelty Free,none,BUNDLE-ORAL,2.0,Stable supply
+TDR-WG4UZ,Niche Snacks,HAI-003,3.02,24,58559,14,98,no,1.73,0.61,50,L,UK,Vegan|Cruelty Free,milk,BUNDLE-ORAL,3.7,Freight included
+TDR-WG4UZ,Unilever,HAI-003,3.24,18,69621,8,96,yes,1.49,1.25,400,ml,UK,Vegan|Cruelty Free,milk,BUNDLE-ORAL,2.7,Stable supply
+TDR-WG4UZ,EuroChem,HAI-003,3.07,12,69162,6,99,yes,1.08,1.52,50,units,UK,Vegan,milk,BUNDLE-HAIR,2.8,Stable supply
+TDR-WG4UZ,OptiCare,HAI-003,3.07,12,32158,14,99,yes,1.52,0.63,300,L,ES,Vegan,none,BUNDLE-ORAL,2.2,Stable supply
+TDR-W0ZXC,Niche Snacks,SNA-023,1.73,18,43587,9,96,yes,0.59,0.84,75,g,DE,FSC packaging,-,BUNDLE-HAIR,2.1,Freight included
+TDR-W0ZXC,EuroChem,SNA-023,1.81,9,47072,14,96,yes,0.0,0.05,400,g,PL,Vegan|Cruelty Free,none,BUNDLE-HAIR,2.8,Stable supply
+TDR-W0ZXC,GreenFoods,SNA-023,1.79,12,38071,12,99,yes,0.21,1.26,2000,units,PL,-,none,BUNDLE-ORAL,1.8,Rebate tied to volume
+TDR-W0ZXC,Regional Dairy,SNA-023,1.95,12,48489,7,96,yes,0.62,0.12,2000,ml,FR,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,3.7,Freight included
+TDR-X8R2L,Niche Snacks,SKI-046,3.59,6,44002,10,98,yes,0.0,0.25,90,ml,DE,Vegan,nuts,BUNDLE-SKIN,3.1,Rebate tied to volume
+TDR-X8R2L,P&G,SKI-046,4.19,12,42510,14,98,yes,0.73,0.75,90,ml,PL,-,milk,BUNDLE-HAIR,2.6,Winter LT risk
+TDR-X8R2L,GreenFoods,SKI-046,3.88,18,54318,12,99,yes,0.79,1.54,50,L,FR,-,-,BUNDLE-ORAL,3.3,Stable supply
+TDR-X8R2L,Own Label Co.,SKI-046,3.93,12,48221,7,97,yes,0.33,0.86,50,units,ES,FSC packaging,-,BUNDLE-ORAL,2.2,Stable supply
+TDR-X2LLK,Acme Beauty,ORA-018,2.17,6,61879,7,98,no,0.0,0.21,300,L,FR,-,none,BUNDLE-HAIR,2.1,Rebate tied to volume
+TDR-X2LLK,P&G,ORA-018,2.33,18,32995,7,98,no,0.21,0.43,400,units,PL,FSC packaging,none,BUNDLE-SKIN,1.7,Winter LT risk
+TDR-X2LLK,Own Label Co.,ORA-018,2.34,12,47360,8,96,yes,0.85,1.38,300,g,FR,Vegan,nuts,-,0.0,Freight included
+TDR-X2LLK,OptiCare,ORA-018,2.39,9,48822,10,98,no,1.07,1.3,75,g,EU,Vegan,nuts,-,0.0,Bundle available
+TDR-X2LLK,Unilever,ORA-018,2.41,18,65736,8,97,yes,0.74,0.64,150,L,DE,Vegan,milk,-,0.0,Stable supply
+TDR-9PDCC,OptiCare,HAI-003,2.6,12,65673,14,96,no,2.25,1.72,2000,units,DE,-,nuts,-,0.0,Freight included
+TDR-9PDCC,Unilever,HAI-003,2.59,6,30000,12,98,yes,0.86,0.0,500,L,ES,Vegan,none,BUNDLE-ORAL,2.5,Rebate tied to volume
+TDR-9PDCC,EuroChem,HAI-003,2.85,12,39254,6,99,no,2.46,1.13,400,g,UK,Vegan,nuts,BUNDLE-HAIR,3.4,Stable supply
+TDR-9PDCC,Acme Beauty,HAI-003,3.04,6,60410,8,98,yes,0.64,1.0,400,g,FR,-,nuts,BUNDLE-ORAL,2.6,Freight included
+TDR-1FHOE,EuroChem,HAI-007,2.93,24,56594,8,99,no,1.57,0.71,300,L,DE,-,nuts,BUNDLE-ORAL,1.0,Bundle available
+TDR-1FHOE,GreenFoods,HAI-007,3.34,6,56768,12,98,yes,1.72,0.03,150,units,IE,Vegan,none,BUNDLE-HAIR,1.1,Bundle available
+TDR-1FHOE,Unilever,HAI-007,3.1,18,37138,10,97,no,1.26,0.29,90,L,DE,-,nuts,BUNDLE-HAIR,3.7,Stable supply
+TDR-ZQELQ,Regional Dairy,ORA-018,2.49,6,42787,8,97,yes,1.5,1.55,2000,g,FR,-,-,BUNDLE-SKIN,2.6,Stable supply
+TDR-ZQELQ,OptiCare,ORA-018,2.98,6,58500,6,96,yes,0.18,0.93,500,L,UK,Vegan|Cruelty Free,-,BUNDLE-SKIN,1.6,Freight included
+TDR-ZQELQ,EuroChem,ORA-018,2.45,24,39144,14,97,yes,0.8,1.08,300,ml,PL,FSC packaging,nuts,BUNDLE-HAIR,4.0,Winter LT risk
+TDR-ZQELQ,P&G,ORA-018,2.81,12,62503,14,99,no,1.95,0.77,300,L,ES,Vegan|Cruelty Free,nuts,BUNDLE-SKIN,3.5,Winter LT risk
+TDR-ZQELQ,Own Label Co.,ORA-018,2.59,12,36905,8,96,yes,1.7,1.61,50,units,IE,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,3.1,Rebate tied to volume
+TDR-DXHFA,OptiCare,HAI-010,2.46,12,53568,7,96,yes,0.36,0.7,400,ml,IE,FSC packaging,nuts,BUNDLE-SKIN,3.9,Stable supply
+TDR-DXHFA,Niche Snacks,HAI-010,2.93,24,49815,6,96,yes,1.21,0.74,50,g,PL,Vegan|Cruelty Free,milk,-,0.0,Stable supply
+TDR-DXHFA,Regional Dairy,HAI-010,2.92,24,51979,9,96,yes,0.58,0.65,400,units,PL,Vegan,nuts,BUNDLE-HAIR,2.7,Bundle available
+TDR-DXHFA,Unilever,HAI-010,2.61,9,35726,10,97,no,0.35,0.66,500,ml,FR,Vegan,none,BUNDLE-ORAL,1.0,Bundle available
+TDR-DXHFA,P&G,HAI-010,2.58,6,69196,9,97,no,0.0,1.32,500,ml,EU,Vegan|Cruelty Free,nuts,-,0.0,Rebate tied to volume
+TDR-D760P,Acme Beauty,DAI-036,1.16,12,43682,6,98,yes,0.51,0.96,150,ml,PL,Vegan|Cruelty Free,none,BUNDLE-ORAL,3.8,Winter LT risk
+TDR-D760P,P&G,DAI-036,1.2,6,40115,7,96,yes,2.9,0.0,400,L,UK,-,none,BUNDLE-SKIN,2.1,Rebate tied to volume
+TDR-D760P,Regional Dairy,DAI-036,1.21,18,48747,8,99,no,0.0,1.93,300,units,ES,-,-,BUNDLE-SKIN,2.8,Stable supply
+TDR-D760P,OptiCare,DAI-036,1.27,12,76646,9,97,no,2.38,1.34,50,g,DE,-,-,BUNDLE-HAIR,2.2,Stable supply
+TDR-KSSGG,Own Label Co.,SNA-033,1.72,6,74203,6,96,no,1.19,0.0,50,units,FR,-,-,BUNDLE-ORAL,1.7,Freight included
+TDR-KSSGG,Unilever,SNA-033,1.94,12,50174,12,99,no,1.19,0.41,400,units,EU,FSC packaging,milk,-,0.0,Freight included
+TDR-KSSGG,OptiCare,SNA-033,1.7,12,55770,10,98,yes,1.26,0.0,150,L,PL,FSC packaging,milk,BUNDLE-SKIN,1.4,Rebate tied to volume
+TDR-KSSGG,Regional Dairy,SNA-033,1.72,9,48232,6,98,no,0.41,0.57,150,g,IE,-,nuts,BUNDLE-HAIR,1.4,Stable supply
+TDR-KSSGG,EuroChem,SNA-033,1.88,9,70436,12,96,yes,1.11,0.64,500,L,IE,FSC packaging,none,BUNDLE-SKIN,3.8,Stable supply
+TDR-WC6FA,Regional Dairy,DAI-037,1.19,12,49005,9,96,yes,0.56,1.07,400,L,ES,Vegan,milk,BUNDLE-SKIN,1.4,Winter LT risk
+TDR-WC6FA,GreenFoods,DAI-037,1.18,24,60688,6,99,no,0.5,0.76,2000,g,IE,Vegan|Cruelty Free,none,BUNDLE-HAIR,3.5,Winter LT risk
+TDR-WC6FA,Niche Snacks,DAI-037,1.3,18,60952,12,97,no,0.42,0.84,400,L,IE,FSC packaging,milk,-,0.0,Rebate tied to volume
+TDR-WC6FA,P&G,DAI-037,1.3,6,30072,10,98,yes,1.07,0.73,90,L,FR,-,milk,BUNDLE-ORAL,3.1,Stable supply
+TDR-WC6FA,Acme Beauty,DAI-037,1.22,12,30000,6,99,yes,0.48,0.91,150,g,ES,-,milk,-,0.0,Freight included
+TDR-UW0YA,P&G,DAI-041,0.97,12,53721,6,98,yes,0.47,1.41,500,L,PL,Vegan|Cruelty Free,-,BUNDLE-HAIR,3.5,Rebate tied to volume
+TDR-UW0YA,Niche Snacks,DAI-041,1.02,24,54510,10,98,yes,1.68,0.03,150,L,IE,Vegan,none,BUNDLE-SKIN,2.8,Freight included
+TDR-UW0YA,Acme Beauty,DAI-041,1.08,18,48449,9,99,no,0.64,0.91,50,ml,DE,FSC packaging,-,BUNDLE-SKIN,1.7,Freight included
+TDR-UW0YA,OptiCare,DAI-041,1.07,9,42928,6,99,yes,1.45,0.95,2000,g,DE,Vegan,nuts,BUNDLE-HAIR,2.2,Freight included
+TDR-XAB09,Acme Beauty,HAI-012,2.81,6,42594,12,98,no,0.71,0.51,400,units,IE,FSC packaging,none,-,0.0,Stable supply
+TDR-XAB09,P&G,HAI-012,2.98,18,30000,14,96,yes,0.51,0.0,2000,ml,IE,Vegan|Cruelty Free,-,-,0.0,Stable supply
+TDR-XAB09,EuroChem,HAI-012,3.13,12,42973,9,96,no,1.72,0.67,500,g,ES,Vegan,nuts,BUNDLE-ORAL,1.9,Winter LT risk
+TDR-XAB09,Own Label Co.,HAI-012,2.83,18,57503,6,97,no,2.41,0.89,300,L,UK,-,-,BUNDLE-ORAL,3.1,Winter LT risk
+TDR-XAB09,GreenFoods,HAI-012,2.85,12,54682,10,99,no,1.66,0.0,50,L,PL,Vegan|Cruelty Free,-,BUNDLE-SKIN,3.5,Rebate tied to volume
+TDR-24I7R,Acme Beauty,ORA-019,2.32,12,43512,7,97,yes,0.0,0.21,150,L,ES,FSC packaging,nuts,BUNDLE-ORAL,2.7,Winter LT risk
+TDR-24I7R,Regional Dairy,ORA-019,2.74,12,35794,12,96,no,1.04,1.04,400,ml,DE,Vegan,-,BUNDLE-ORAL,1.1,Bundle available
+TDR-24I7R,Own Label Co.,ORA-019,2.41,9,55123,14,99,yes,1.17,0.95,150,g,IE,FSC packaging,-,BUNDLE-SKIN,3.6,Stable supply
+TDR-24I7R,P&G,ORA-019,2.32,6,44719,7,99,no,1.16,1.3,75,ml,EU,Vegan,-,BUNDLE-HAIR,3.5,Bundle available
+TDR-XQPAW,OptiCare,DAI-038,1.16,18,62362,12,97,yes,1.93,1.0,150,L,IE,Vegan|Cruelty Free,nuts,BUNDLE-HAIR,2.2,Stable supply
+TDR-XQPAW,P&G,DAI-038,1.23,12,53828,6,97,yes,0.2,0.59,50,units,EU,-,-,BUNDLE-SKIN,2.0,Stable supply
+TDR-XQPAW,GreenFoods,DAI-038,1.29,6,44160,12,97,yes,0.0,0.0,90,units,PL,Vegan|Cruelty Free,milk,BUNDLE-HAIR,3.3,Winter LT risk
+TDR-XQPAW,Regional Dairy,DAI-038,1.27,12,65722,10,97,yes,1.95,0.25,150,units,UK,-,-,BUNDLE-HAIR,2.7,Winter LT risk
+TDR-XQPAW,Own Label Co.,DAI-038,1.25,24,43139,10,96,yes,0.08,1.21,2000,g,FR,Vegan|Cruelty Free,-,BUNDLE-ORAL,1.9,Freight included
+TDR-OUU58,Acme Beauty,HAI-007,2.86,6,49637,14,98,yes,1.28,0.41,150,ml,PL,FSC packaging,milk,-,0.0,Freight included
+TDR-OUU58,P&G,HAI-007,3.4,9,57066,9,98,yes,0.72,0.59,75,g,EU,FSC packaging,milk,BUNDLE-HAIR,3.5,Rebate tied to volume
+TDR-OUU58,Regional Dairy,HAI-007,3.18,6,55207,10,96,yes,0.8,0.74,400,g,EU,-,none,BUNDLE-HAIR,3.0,Winter LT risk
+TDR-M4JNJ,Own Label Co.,ORA-019,2.24,12,57160,9,97,yes,0.0,0.96,400,g,UK,-,none,BUNDLE-SKIN,1.4,Bundle available
+TDR-M4JNJ,P&G,ORA-019,2.34,9,39003,10,99,yes,0.0,1.18,50,ml,UK,Vegan,-,BUNDLE-HAIR,2.4,Freight included
+TDR-M4JNJ,OptiCare,ORA-019,2.4,12,42239,6,98,no,2.1,1.08,90,L,EU,Vegan,milk,-,0.0,Freight included
+TDR-M4JNJ,Niche Snacks,ORA-019,2.5,9,35145,8,96,yes,2.02,0.33,150,ml,EU,FSC packaging,milk,-,0.0,Winter LT risk
+TDR-4YKMM,P&G,DAI-040,1.08,9,46172,7,96,no,2.31,0.36,300,L,EU,-,-,BUNDLE-HAIR,3.6,Stable supply
+TDR-4YKMM,Niche Snacks,DAI-040,1.29,24,43983,14,97,yes,0.24,0.1,50,ml,UK,FSC packaging,nuts,BUNDLE-HAIR,2.9,Bundle available
+TDR-4YKMM,GreenFoods,DAI-040,1.24,9,53395,7,98,yes,1.46,1.41,500,units,DE,Vegan,milk,-,0.0,Bundle available
+TDR-4YKMM,EuroChem,DAI-040,1.06,18,66124,7,97,yes,2.49,0.74,50,g,UK,-,none,-,0.0,Stable supply
+TDR-LJERG,P&G,SNA-029,1.6,24,35394,7,98,yes,0.34,1.49,75,units,DE,Vegan|Cruelty Free,none,BUNDLE-ORAL,1.0,Freight included
+TDR-LJERG,EuroChem,SNA-029,1.83,6,30000,6,97,yes,0.22,1.24,90,g,IE,-,nuts,BUNDLE-HAIR,1.7,Stable supply
+TDR-LJERG,Own Label Co.,SNA-029,1.63,24,54039,8,96,yes,0.92,1.22,2000,ml,ES,-,none,-,0.0,Stable supply
+TDR-LJERG,GreenFoods,SNA-029,1.63,6,45861,14,98,yes,1.03,0.0,75,L,DE,Vegan|Cruelty Free,-,BUNDLE-SKIN,1.5,Stable supply
+TDR-LJERG,Niche Snacks,SNA-029,1.61,24,33695,8,96,no,2.03,0.19,2000,g,ES,FSC packaging,milk,-,0.0,Bundle available
+TDR-RG83U,GreenFoods,ORA-014,2.31,9,56861,7,97,no,1.51,0.61,2000,g,ES,Vegan,-,BUNDLE-SKIN,2.7,Winter LT risk
+TDR-RG83U,OptiCare,ORA-014,2.33,12,37366,6,97,no,0.86,0.86,400,units,IE,-,none,BUNDLE-ORAL,1.3,Freight included
+TDR-RG83U,Niche Snacks,ORA-014,2.37,6,39397,6,99,yes,0.01,0.69,500,L,ES,Vegan|Cruelty Free,milk,BUNDLE-HAIR,1.9,Bundle available
+TDR-RG83U,Own Label Co.,ORA-014,2.48,12,43947,14,99,no,0.77,0.44,50,L,PL,Vegan,milk,BUNDLE-HAIR,3.3,Freight included
+TDR-01BZF,GreenFoods,SNA-033,1.64,24,30000,10,97,yes,1.54,1.4,150,ml,ES,Vegan|Cruelty Free,-,BUNDLE-ORAL,3.7,Winter LT risk
+TDR-01BZF,Own Label Co.,SNA-033,1.8,12,52522,7,97,yes,0.1,1.56,500,L,ES,-,nuts,BUNDLE-HAIR,1.7,Freight included
+TDR-01BZF,Acme Beauty,SNA-033,1.85,6,45813,6,97,yes,0.44,0.64,150,units,DE,-,milk,-,0.0,Rebate tied to volume
+TDR-01BZF,EuroChem,SNA-033,1.9,18,41562,12,99,yes,1.56,1.13,300,units,UK,-,-,BUNDLE-ORAL,2.7,Winter LT risk
+TDR-8IGDJ,Unilever,DAI-035,1.25,12,51457,12,99,no,2.16,0.17,50,units,ES,-,none,-,0.0,Bundle available
+TDR-8IGDJ,EuroChem,DAI-035,1.33,12,70394,8,97,no,1.66,1.39,2000,ml,PL,FSC packaging,nuts,-,0.0,Winter LT risk
+TDR-8IGDJ,Own Label Co.,DAI-035,1.36,9,32864,10,96,yes,0.0,1.23,90,L,FR,Vegan|Cruelty Free,milk,-,0.0,Freight included
+TDR-8IGDJ,OptiCare,DAI-035,1.43,12,47219,12,96,no,0.05,0.66,500,units,FR,-,milk,BUNDLE-ORAL,3.4,Stable supply
+TDR-COZ7V,Niche Snacks,SKI-047,2.62,12,48185,14,96,no,0.36,0.86,400,g,EU,Vegan,nuts,BUNDLE-ORAL,3.5,Rebate tied to volume
+TDR-COZ7V,Own Label Co.,SKI-047,2.98,24,51033,8,96,no,1.46,1.68,300,units,IE,-,nuts,BUNDLE-ORAL,2.1,Winter LT risk
+TDR-COZ7V,Acme Beauty,SKI-047,2.82,9,48212,10,98,yes,0.0,0.12,500,ml,FR,-,milk,BUNDLE-SKIN,3.8,Winter LT risk
+TDR-COZ7V,OptiCare,SKI-047,2.86,12,30000,8,96,yes,1.12,0.12,2000,units,FR,Vegan|Cruelty Free,milk,-,0.0,Stable supply
+TDR-COZ7V,Regional Dairy,SKI-047,3.11,18,39338,9,99,yes,0.89,1.84,300,units,PL,FSC packaging,milk,-,0.0,Winter LT risk
+TDR-DUTZS,GreenFoods,HAI-011,2.97,6,61641,6,98,yes,1.26,0.0,400,L,EU,Vegan,none,BUNDLE-SKIN,2.4,Bundle available
+TDR-DUTZS,Niche Snacks,HAI-011,3.21,9,37869,12,97,no,1.34,1.28,75,units,ES,-,-,BUNDLE-SKIN,2.6,Freight included
+TDR-DUTZS,EuroChem,HAI-011,3.02,12,67562,8,97,no,1.13,0.62,90,units,FR,-,nuts,BUNDLE-HAIR,2.7,Winter LT risk
+TDR-DUTZS,OptiCare,HAI-011,3.54,6,55397,9,96,no,0.58,0.55,50,g,DE,FSC packaging,-,BUNDLE-HAIR,3.8,Rebate tied to volume
+TDR-WHSM8,OptiCare,HAI-006,2.19,12,70077,14,97,yes,1.81,1.28,150,g,DE,Vegan,milk,-,0.0,Freight included
+TDR-WHSM8,Niche Snacks,HAI-006,2.42,9,65810,12,99,no,2.27,1.65,300,ml,IE,-,nuts,BUNDLE-HAIR,1.3,Winter LT risk
+TDR-WHSM8,Unilever,HAI-006,2.23,12,52513,12,96,yes,0.85,2.18,50,ml,UK,-,nuts,-,0.0,Freight included
+TDR-WHSM8,GreenFoods,HAI-006,2.61,9,39970,9,98,no,1.34,0.67,50,units,DE,Vegan,none,BUNDLE-SKIN,3.2,Bundle available
+TDR-WHSM8,Acme Beauty,HAI-006,2.21,9,46168,8,98,yes,1.64,0.83,150,g,DE,Vegan|Cruelty Free,milk,-,0.0,Stable supply
+TDR-6BTOI,Regional Dairy,DAI-034,1.57,6,54109,14,98,yes,1.09,0.0,400,ml,FR,-,none,-,0.0,Freight included
+TDR-6BTOI,EuroChem,DAI-034,1.85,18,46447,10,99,yes,1.45,1.66,50,L,DE,-,milk,-,0.0,Freight included
+TDR-6BTOI,Acme Beauty,DAI-034,1.68,9,47255,9,99,no,0.36,0.23,2000,g,PL,Vegan|Cruelty Free,none,BUNDLE-SKIN,2.4,Stable supply
+TDR-WW3BD,Niche Snacks,HAI-003,2.67,9,57275,6,96,yes,0.39,1.11,150,g,IE,-,nuts,BUNDLE-ORAL,3.2,Bundle available
+TDR-WW3BD,Unilever,HAI-003,2.88,6,50370,8,97,yes,0.55,0.4,50,L,DE,-,nuts,BUNDLE-ORAL,3.7,Winter LT risk
+TDR-WW3BD,Regional Dairy,HAI-003,2.99,6,47994,6,97,no,0.22,1.22,400,units,UK,FSC packaging,none,BUNDLE-ORAL,3.5,Bundle available
+TDR-WW3BD,Own Label Co.,HAI-003,3.15,12,55261,14,99,yes,2.66,0.67,75,L,IE,-,-,BUNDLE-HAIR,1.2,Bundle available
+TDR-5IBV3,Acme Beauty,ORA-015,2.44,18,50295,8,99,yes,2.69,0.39,400,L,FR,Vegan,nuts,BUNDLE-ORAL,3.1,Rebate tied to volume
+TDR-5IBV3,EuroChem,ORA-015,2.51,24,38410,12,99,yes,0.06,0.0,500,g,EU,Vegan,none,BUNDLE-HAIR,3.3,Rebate tied to volume
+TDR-5IBV3,Niche Snacks,ORA-015,2.49,12,46383,6,96,yes,1.05,0.94,2000,ml,EU,Vegan,milk,BUNDLE-ORAL,2.1,Rebate tied to volume
+TDR-5IBV3,OptiCare,ORA-015,2.58,12,83624,9,97,yes,0.43,0.84,150,g,PL,FSC packaging,none,-,0.0,Rebate tied to volume
+TDR-5IBV3,P&G,ORA-015,2.56,9,35061,9,99,no,0.8,0.0,2000,ml,DE,Vegan,-,BUNDLE-HAIR,1.2,Freight included
+TDR-3MFA3,Unilever,HAI-010,2.94,24,51007,14,97,no,0.7,0.31,2000,units,DE,Vegan|Cruelty Free,none,BUNDLE-SKIN,3.0,Rebate tied to volume
+TDR-3MFA3,EuroChem,HAI-010,3.4,6,40504,12,97,yes,0.98,1.29,50,units,DE,Vegan|Cruelty Free,none,BUNDLE-HAIR,1.2,Bundle available
+TDR-3MFA3,Own Label Co.,HAI-010,3.11,6,50571,6,99,yes,1.04,0.63,500,g,EU,Vegan,-,BUNDLE-ORAL,1.3,Bundle available
+TDR-3MFA3,Regional Dairy,HAI-010,3.49,12,68780,6,99,yes,0.0,0.08,75,g,EU,Vegan|Cruelty Free,milk,-,0.0,Rebate tied to volume
+TDR-3MFA3,OptiCare,HAI-010,2.89,6,33032,6,96,no,0.68,1.19,75,ml,FR,Vegan,milk,BUNDLE-SKIN,1.7,Freight included
+TDR-PNI3L,Niche Snacks,HAI-012,2.63,6,34663,10,97,yes,0.61,0.12,90,units,EU,Vegan,nuts,BUNDLE-SKIN,3.9,Bundle available
+TDR-PNI3L,P&G,HAI-012,3.08,18,36409,10,98,no,1.63,0.5,75,ml,FR,Vegan|Cruelty Free,none,-,0.0,Winter LT risk
+TDR-PNI3L,Regional Dairy,HAI-012,2.6,12,60945,8,98,yes,1.16,0.48,2000,L,IE,Vegan|Cruelty Free,none,-,0.0,Bundle available
+TDR-PNI3L,Unilever,HAI-012,3.04,6,42584,12,97,no,1.09,0.82,500,units,ES,Vegan|Cruelty Free,none,-,0.0,Bundle available
+TDR-PNI3L,Own Label Co.,HAI-012,2.67,24,44123,12,97,yes,0.9,0.35,50,g,DE,-,-,BUNDLE-ORAL,2.4,Stable supply
+TDR-RHC4Y,Niche Snacks,SKI-043,2.38,12,50481,14,98,yes,0.31,0.82,400,units,UK,Vegan|Cruelty Free,-,BUNDLE-HAIR,3.1,Freight included
+TDR-RHC4Y,OptiCare,SKI-043,2.85,12,52406,14,97,yes,0.0,0.91,500,ml,PL,Vegan|Cruelty Free,milk,BUNDLE-ORAL,3.6,Bundle available
+TDR-RHC4Y,GreenFoods,SKI-043,2.84,9,47442,8,96,no,0.0,0.22,90,ml,UK,-,-,BUNDLE-ORAL,1.0,Winter LT risk
+TDR-RHC4Y,Unilever,SKI-043,2.37,18,49191,6,99,yes,1.43,0.08,150,ml,FR,Vegan|Cruelty Free,-,-,0.0,Stable supply
+TDR-58RST,Unilever,SNA-025,3.36,12,45736,14,96,no,1.9,1.81,300,units,FR,Vegan,nuts,BUNDLE-SKIN,3.2,Rebate tied to volume
+TDR-58RST,Regional Dairy,SNA-025,3.84,24,55057,12,98,yes,2.54,1.61,150,L,PL,Vegan,none,BUNDLE-HAIR,1.4,Winter LT risk
+TDR-58RST,OptiCare,SNA-025,3.5,24,44426,12,97,no,1.26,0.94,75,ml,FR,FSC packaging,milk,-,0.0,Bundle available
+TDR-CJOAP,Acme Beauty,SKI-049,3.42,6,43260,10,96,yes,1.11,0.0,400,ml,EU,Vegan,-,BUNDLE-ORAL,2.1,Freight included
+TDR-CJOAP,Own Label Co.,SKI-049,3.81,6,38155,8,98,yes,0.85,0.7,500,g,ES,Vegan,-,BUNDLE-ORAL,4.0,Winter LT risk
+TDR-CJOAP,GreenFoods,SKI-049,3.73,9,30000,6,99,yes,1.11,0.89,75,g,IE,-,milk,BUNDLE-ORAL,3.3,Rebate tied to volume
+TDR-CJOAP,Unilever,SKI-049,4.07,9,44268,6,96,yes,1.35,0.67,300,L,EU,Vegan,nuts,BUNDLE-SKIN,2.5,Bundle available
+TDR-CJOAP,P&G,SKI-049,3.68,12,30000,8,96,no,0.43,0.02,150,ml,UK,-,none,BUNDLE-ORAL,3.9,Stable supply
+TDR-868AJ,Acme Beauty,DAI-039,1.13,12,51171,10,97,yes,1.31,1.0,400,L,PL,-,nuts,-,0.0,Stable supply
+TDR-868AJ,Own Label Co.,DAI-039,1.34,12,55710,14,99,yes,1.23,0.69,150,g,EU,FSC packaging,milk,BUNDLE-HAIR,1.1,Freight included
+TDR-868AJ,Regional Dairy,DAI-039,1.24,6,68449,6,96,no,2.35,0.97,500,L,EU,-,none,BUNDLE-SKIN,3.6,Freight included
+TDR-868AJ,OptiCare,DAI-039,1.26,6,39864,6,99,no,0.88,0.69,2000,ml,ES,Vegan,-,BUNDLE-SKIN,2.4,Stable supply
+TDR-3ONWC,Regional Dairy,SKI-047,2.73,12,57493,9,96,yes,0.55,1.22,150,ml,PL,-,-,BUNDLE-SKIN,2.6,Stable supply
+TDR-3ONWC,OptiCare,SKI-047,3.02,18,36257,6,96,no,0.82,0.23,150,units,FR,Vegan|Cruelty Free,-,-,0.0,Bundle available
+TDR-3ONWC,Niche Snacks,SKI-047,2.87,18,45758,6,97,no,0.0,0.56,90,L,EU,Vegan,none,BUNDLE-SKIN,4.0,Winter LT risk
+TDR-N1L2D,GreenFoods,SNA-027,1.64,12,53335,14,97,yes,1.16,0.7,2000,L,UK,Vegan|Cruelty Free,milk,BUNDLE-ORAL,1.4,Bundle available
+TDR-N1L2D,P&G,SNA-027,1.97,24,52154,9,99,yes,2.63,0.87,90,ml,FR,Vegan,-,-,0.0,Rebate tied to volume
+TDR-N1L2D,OptiCare,SNA-027,1.92,9,59954,14,99,no,0.0,0.21,90,L,EU,FSC packaging,milk,-,0.0,Winter LT risk
+TDR-N1L2D,EuroChem,SNA-027,1.62,24,39681,7,97,yes,0.38,0.31,2000,ml,ES,Vegan|Cruelty Free,none,BUNDLE-ORAL,3.2,Freight included
+TDR-F71R9,Regional Dairy,ORA-014,2.28,9,66601,8,98,no,1.07,0.24,150,ml,ES,Vegan,nuts,-,0.0,Winter LT risk
+TDR-F71R9,GreenFoods,ORA-014,2.52,9,39711,6,99,yes,1.73,0.3,2000,g,DE,Vegan|Cruelty Free,nuts,BUNDLE-SKIN,2.1,Stable supply
+TDR-F71R9,Own Label Co.,ORA-014,2.38,12,39275,8,97,yes,1.47,0.36,50,units,EU,-,-,-,0.0,Rebate tied to volume
+TDR-3K3OS,GreenFoods,SNA-028,1.53,9,65921,7,96,yes,1.18,0.37,300,units,ES,FSC packaging,nuts,BUNDLE-ORAL,2.8,Stable supply
+TDR-3K3OS,P&G,SNA-028,1.53,12,30000,9,97,yes,0.0,0.27,90,L,IE,Vegan,nuts,BUNDLE-HAIR,2.7,Freight included
+TDR-3K3OS,Own Label Co.,SNA-028,1.83,6,55555,10,99,yes,0.83,0.0,300,g,IE,Vegan|Cruelty Free,milk,BUNDLE-SKIN,1.8,Bundle available
+TDR-3K3OS,Unilever,SNA-028,1.65,12,58020,14,96,yes,0.99,0.75,300,ml,PL,Vegan|Cruelty Free,nuts,BUNDLE-SKIN,3.3,Bundle available
+TDR-X9VXL,Niche Snacks,ORA-019,2.11,12,52786,14,98,no,1.44,1.78,75,units,EU,FSC packaging,milk,BUNDLE-HAIR,1.6,Freight included
+TDR-X9VXL,P&G,ORA-019,2.36,18,60905,8,99,yes,2.05,1.48,300,g,ES,-,milk,-,0.0,Bundle available
+TDR-X9VXL,OptiCare,ORA-019,2.14,24,41334,9,97,no,0.51,0.88,400,ml,ES,FSC packaging,milk,BUNDLE-HAIR,2.7,Freight included
+TDR-X9VXL,Regional Dairy,ORA-019,2.37,9,65982,9,96,yes,0.38,0.39,500,units,EU,Vegan|Cruelty Free,milk,BUNDLE-ORAL,1.1,Freight included
+TDR-X9VXL,EuroChem,ORA-019,2.09,12,47525,7,97,no,1.45,0.67,150,L,UK,Vegan,nuts,BUNDLE-SKIN,2.0,Rebate tied to volume
+TDR-EYWGL,Own Label Co.,SKI-049,3.37,24,54054,6,99,no,1.88,1.4,2000,L,DE,-,milk,BUNDLE-SKIN,1.6,Winter LT risk
+TDR-EYWGL,Regional Dairy,SKI-049,3.95,12,63583,12,96,no,1.55,0.72,90,units,PL,Vegan,milk,BUNDLE-HAIR,1.0,Stable supply
+TDR-EYWGL,EuroChem,SKI-049,3.39,18,52894,14,97,yes,0.48,0.7,300,L,EU,Vegan,-,-,0.0,Stable supply
+TDR-EYWGL,Unilever,SKI-049,3.68,18,36759,10,99,no,0.0,0.88,300,ml,UK,Vegan,nuts,-,0.0,Stable supply
+TDR-NR9BT,Acme Beauty,SKI-043,3.07,9,46483,7,97,yes,1.81,0.94,150,ml,UK,Vegan,none,-,0.0,Stable supply
+TDR-NR9BT,Own Label Co.,SKI-043,3.08,12,32749,8,96,no,0.21,1.11,400,L,PL,FSC packaging,-,BUNDLE-ORAL,3.7,Winter LT risk
+TDR-NR9BT,Unilever,SKI-043,3.06,6,35704,8,97,yes,0.45,0.0,75,ml,DE,Vegan,milk,BUNDLE-HAIR,2.4,Winter LT risk
+TDR-DW52O,Own Label Co.,ORA-016,2.68,18,65107,9,97,yes,2.72,0.2,50,g,IE,FSC packaging,-,BUNDLE-ORAL,1.8,Bundle available
+TDR-DW52O,Niche Snacks,ORA-016,2.82,12,40266,14,96,yes,0.65,1.17,75,ml,DE,Vegan|Cruelty Free,nuts,BUNDLE-SKIN,3.7,Freight included
+TDR-DW52O,GreenFoods,ORA-016,3.2,9,50110,10,96,no,1.26,0.45,2000,units,EU,Vegan,nuts,BUNDLE-HAIR,1.2,Bundle available
+TDR-DW52O,EuroChem,ORA-016,3.11,12,47120,7,98,no,1.97,0.79,500,L,FR,Vegan,none,BUNDLE-HAIR,2.6,Bundle available
+TDR-HT2TQ,Own Label Co.,ORA-016,2.69,18,51667,8,97,no,1.83,0.49,2000,g,EU,Vegan|Cruelty Free,milk,BUNDLE-ORAL,2.7,Stable supply
+TDR-HT2TQ,Regional Dairy,ORA-016,2.93,6,66373,7,99,yes,0.64,0.92,300,units,PL,-,none,BUNDLE-ORAL,1.2,Bundle available
+TDR-HT2TQ,Niche Snacks,ORA-016,2.76,6,40391,8,97,yes,1.02,0.49,90,g,ES,Vegan,nuts,BUNDLE-ORAL,3.8,Bundle available
+TDR-5JOFJ,Own Label Co.,SNA-029,1.9,24,44294,10,98,no,0.82,0.56,2000,L,IE,Vegan,none,-,0.0,Rebate tied to volume
+TDR-5JOFJ,EuroChem,SNA-029,2.01,12,48269,9,96,yes,0.36,0.74,150,units,PL,FSC packaging,-,BUNDLE-ORAL,3.7,Rebate tied to volume
+TDR-5JOFJ,Niche Snacks,SNA-029,2.02,24,36758,8,96,yes,1.17,0.28,2000,ml,FR,-,nuts,-,0.0,Rebate tied to volume
+TDR-5JOFJ,P&G,SNA-029,1.93,6,47142,9,96,yes,0.75,0.21,75,L,ES,Vegan,nuts,BUNDLE-SKIN,1.3,Bundle available
+TDR-5JOFJ,Unilever,SNA-029,2.06,6,32094,8,97,no,1.22,1.58,75,ml,PL,Vegan|Cruelty Free,-,BUNDLE-HAIR,2.8,Stable supply
+TDR-RL6E9,Own Label Co.,ORA-019,2.06,12,51778,14,99,no,1.46,0.82,400,L,UK,Vegan|Cruelty Free,-,-,0.0,Bundle available
+TDR-RL6E9,Acme Beauty,ORA-019,2.19,24,39754,12,99,yes,1.69,0.75,150,g,DE,-,-,BUNDLE-SKIN,1.6,Stable supply
+TDR-RL6E9,EuroChem,ORA-019,2.11,9,51783,12,97,yes,1.14,1.01,75,L,IE,Vegan|Cruelty Free,none,BUNDLE-ORAL,1.4,Rebate tied to volume
+TDR-TTRN2,EuroChem,DAI-036,1.03,24,38122,7,98,yes,2.87,1.05,90,L,FR,Vegan|Cruelty Free,-,-,0.0,Bundle available
+TDR-TTRN2,Regional Dairy,DAI-036,1.09,18,30033,8,96,yes,1.22,0.8,50,ml,PL,Vegan|Cruelty Free,milk,BUNDLE-ORAL,3.3,Winter LT risk
+TDR-TTRN2,Own Label Co.,DAI-036,1.06,12,44137,10,98,yes,2.48,1.01,500,L,UK,Vegan|Cruelty Free,none,BUNDLE-SKIN,1.7,Rebate tied to volume
+TDR-TTRN2,P&G,DAI-036,1.19,24,30000,14,96,no,0.54,0.62,90,g,IE,-,milk,BUNDLE-ORAL,3.6,Freight included
+TDR-LCIW8,Own Label Co.,SNA-024,1.82,12,54350,7,97,no,0.33,1.04,400,ml,PL,Vegan|Cruelty Free,milk,BUNDLE-HAIR,3.8,Rebate tied to volume
+TDR-LCIW8,Unilever,SNA-024,1.89,18,55752,9,98,yes,2.16,0.0,2000,g,FR,-,milk,BUNDLE-HAIR,1.4,Bundle available
+TDR-LCIW8,P&G,SNA-024,2.18,6,63330,8,96,yes,1.91,0.89,150,L,UK,Vegan,-,-,0.0,Stable supply
+TDR-LCIW8,OptiCare,SNA-024,1.86,24,80014,9,98,yes,0.77,0.52,500,L,FR,FSC packaging,milk,BUNDLE-ORAL,1.1,Winter LT risk
+TDR-B41H8,P&G,HAI-003,3.06,12,34225,10,96,no,1.36,1.3,75,units,ES,FSC packaging,none,BUNDLE-HAIR,2.9,Stable supply
+TDR-B41H8,Niche Snacks,HAI-003,3.28,12,42970,10,98,no,0.48,1.71,75,ml,ES,FSC packaging,none,BUNDLE-HAIR,1.5,Freight included
+TDR-B41H8,Unilever,HAI-003,3.66,9,52542,10,98,no,1.47,0.84,400,ml,EU,Vegan,nuts,BUNDLE-ORAL,1.3,Freight included
+TDR-B41H8,Regional Dairy,HAI-003,3.02,12,30000,12,96,yes,0.91,1.17,150,L,PL,-,nuts,BUNDLE-SKIN,1.7,Rebate tied to volume
+TDR-B41H8,GreenFoods,HAI-003,3.53,6,73044,12,97,no,1.27,0.72,500,g,EU,Vegan,none,BUNDLE-ORAL,2.2,Bundle available
+TDR-VTWLP,P&G,SKI-043,2.41,9,36490,10,96,no,0.3,0.46,150,units,EU,Vegan|Cruelty Free,nuts,BUNDLE-HAIR,3.6,Freight included
+TDR-VTWLP,Unilever,SKI-043,2.76,12,30000,7,98,no,1.37,0.09,300,g,ES,Vegan|Cruelty Free,-,-,0.0,Bundle available
+TDR-VTWLP,GreenFoods,SKI-043,2.36,6,69275,14,98,no,2.21,1.47,90,g,DE,-,nuts,BUNDLE-HAIR,3.9,Stable supply
+TDR-ZHB7H,Unilever,ORA-016,1.96,9,45120,14,97,no,0.92,0.76,75,units,FR,Vegan|Cruelty Free,milk,BUNDLE-SKIN,1.6,Rebate tied to volume
+TDR-ZHB7H,P&G,ORA-016,1.95,12,38945,6,99,yes,1.55,0.92,75,units,EU,-,-,BUNDLE-HAIR,3.5,Stable supply
+TDR-ZHB7H,OptiCare,ORA-016,1.94,12,56225,9,97,yes,0.9,1.17,150,g,IE,FSC packaging,milk,BUNDLE-SKIN,2.5,Winter LT risk
+TDR-ZHB7H,Niche Snacks,ORA-016,2.14,9,38148,12,97,yes,0.59,1.34,75,g,EU,-,none,BUNDLE-ORAL,2.0,Stable supply
+TDR-ZHB7H,EuroChem,ORA-016,2.24,12,30000,14,99,no,0.0,0.17,2000,units,PL,FSC packaging,nuts,BUNDLE-SKIN,3.6,Rebate tied to volume
+TDR-PFEDU,Regional Dairy,SKI-047,3.2,9,37811,10,97,yes,0.0,0.32,75,L,FR,FSC packaging,none,BUNDLE-SKIN,3.4,Bundle available
+TDR-PFEDU,OptiCare,SKI-047,3.73,24,46280,9,98,yes,0.17,1.18,500,g,ES,Vegan,none,BUNDLE-SKIN,1.6,Winter LT risk
+TDR-PFEDU,Acme Beauty,SKI-047,3.42,24,38594,12,99,yes,1.65,1.25,300,g,DE,Vegan,nuts,BUNDLE-ORAL,1.2,Freight included
+TDR-PFEDU,Own Label Co.,SKI-047,3.32,18,48904,10,97,yes,1.41,0.0,90,units,FR,Vegan|Cruelty Free,milk,-,0.0,Stable supply
+TDR-PFEDU,Unilever,SKI-047,3.45,18,53978,8,99,yes,0.47,0.55,2000,L,PL,Vegan,milk,BUNDLE-ORAL,1.9,Freight included
+TDR-Q86CV,Acme Beauty,HAI-003,3.19,12,61132,8,99,no,3.14,0.0,300,ml,PL,FSC packaging,none,BUNDLE-ORAL,2.3,Rebate tied to volume
+TDR-Q86CV,Unilever,HAI-003,3.74,12,51996,8,98,yes,1.52,0.03,90,units,UK,Vegan,nuts,BUNDLE-HAIR,3.3,Bundle available
+TDR-Q86CV,EuroChem,HAI-003,3.36,9,61900,7,98,yes,0.94,1.43,150,ml,ES,-,none,-,0.0,Stable supply
+TDR-IJ8GM,Own Label Co.,HAI-012,2.91,18,59310,6,97,yes,1.54,1.86,150,ml,FR,FSC packaging,-,BUNDLE-SKIN,1.5,Bundle available
+TDR-IJ8GM,Regional Dairy,HAI-012,2.85,18,55419,7,98,yes,0.0,1.64,75,ml,EU,Vegan,none,-,0.0,Winter LT risk
+TDR-IJ8GM,EuroChem,HAI-012,2.95,24,32657,12,97,yes,0.36,0.98,2000,g,UK,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,3.7,Stable supply
+TDR-IJ8GM,Niche Snacks,HAI-012,3.02,6,37635,14,99,yes,0.0,0.59,500,units,PL,FSC packaging,nuts,BUNDLE-SKIN,2.2,Bundle available
+TDR-IJ8GM,P&G,HAI-012,3.04,9,42900,7,97,yes,0.0,0.82,50,units,DE,Vegan,-,-,0.0,Freight included
+TDR-3SD6Y,Acme Beauty,SNA-024,1.71,6,42619,10,98,no,0.95,2.32,500,g,IE,Vegan,nuts,BUNDLE-SKIN,3.7,Stable supply
+TDR-3SD6Y,EuroChem,SNA-024,1.95,9,49004,12,96,no,0.83,0.4,50,L,ES,Vegan|Cruelty Free,-,BUNDLE-SKIN,3.3,Winter LT risk
+TDR-3SD6Y,Regional Dairy,SNA-024,1.95,18,30000,10,97,yes,0.81,0.55,500,g,PL,Vegan|Cruelty Free,none,BUNDLE-ORAL,2.0,Winter LT risk
+TDR-3SD6Y,GreenFoods,SNA-024,1.97,18,40319,8,98,yes,1.63,0.43,2000,L,IE,Vegan,-,-,0.0,Stable supply
+TDR-D31IU,EuroChem,HAI-001,2.1,6,42183,10,99,yes,1.52,0.31,500,ml,UK,Vegan|Cruelty Free,none,BUNDLE-SKIN,2.0,Winter LT risk
+TDR-D31IU,P&G,HAI-001,2.19,18,45128,14,99,yes,1.52,1.1,300,ml,FR,FSC packaging,milk,-,0.0,Bundle available
+TDR-D31IU,Niche Snacks,HAI-001,2.21,24,50929,8,97,yes,0.93,0.74,300,L,IE,-,nuts,BUNDLE-SKIN,2.8,Rebate tied to volume
+TDR-D31IU,GreenFoods,HAI-001,2.36,24,33066,14,98,yes,0.63,0.28,400,units,FR,FSC packaging,none,-,0.0,Stable supply
+TDR-1B48Q,Niche Snacks,SNA-025,1.14,12,53258,6,97,yes,0.52,1.28,500,g,PL,Vegan,-,BUNDLE-SKIN,2.3,Bundle available
+TDR-1B48Q,P&G,SNA-025,1.12,6,54757,14,96,yes,2.27,0.29,2000,units,FR,Vegan,milk,BUNDLE-ORAL,3.8,Rebate tied to volume
+TDR-1B48Q,Own Label Co.,SNA-025,1.25,9,47318,12,96,no,0.94,1.01,90,L,PL,Vegan|Cruelty Free,nuts,BUNDLE-HAIR,2.2,Freight included
+TDR-1B48Q,Regional Dairy,SNA-025,1.33,12,44931,8,96,yes,0.16,2.42,90,L,IE,Vegan,-,BUNDLE-SKIN,3.4,Stable supply
+TDR-1B48Q,Unilever,SNA-025,1.17,12,53170,9,98,no,0.81,0.0,50,units,EU,FSC packaging,-,BUNDLE-HAIR,2.9,Winter LT risk
+TDR-KQP9Y,EuroChem,SNA-030,1.55,18,64911,12,96,no,1.67,1.4,400,units,EU,Vegan|Cruelty Free,-,BUNDLE-SKIN,2.5,Freight included
+TDR-KQP9Y,Niche Snacks,SNA-030,1.73,18,46694,8,96,no,0.0,0.29,2000,L,EU,-,none,BUNDLE-ORAL,1.9,Freight included
+TDR-KQP9Y,Unilever,SNA-030,1.61,9,33850,9,98,yes,0.0,0.7,500,g,PL,Vegan,milk,BUNDLE-HAIR,3.2,Freight included
+TDR-3R1CS,Unilever,HAI-007,2.78,12,56839,9,98,no,1.28,0.0,400,units,FR,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,2.8,Stable supply
+TDR-3R1CS,Niche Snacks,HAI-007,2.84,12,39766,8,97,no,1.98,0.0,75,units,UK,Vegan|Cruelty Free,none,BUNDLE-HAIR,1.4,Rebate tied to volume
+TDR-3R1CS,OptiCare,HAI-007,3.21,24,69948,6,97,no,0.0,1.2,75,L,UK,Vegan|Cruelty Free,none,BUNDLE-ORAL,1.4,Bundle available
+TDR-3X9DR,Regional Dairy,SNA-033,1.55,6,51619,8,98,no,0.79,0.67,50,units,PL,Vegan|Cruelty Free,none,BUNDLE-HAIR,3.9,Stable supply
+TDR-3X9DR,Niche Snacks,SNA-033,1.67,6,38436,7,96,yes,1.42,0.62,400,units,ES,Vegan,none,BUNDLE-SKIN,2.9,Bundle available
+TDR-3X9DR,GreenFoods,SNA-033,1.72,24,59960,8,97,yes,0.83,0.0,400,ml,UK,Vegan,-,BUNDLE-SKIN,1.0,Stable supply
+TDR-3X9DR,Own Label Co.,SNA-033,1.79,24,30000,8,97,yes,0.72,0.0,400,L,DE,Vegan|Cruelty Free,nuts,BUNDLE-HAIR,1.5,Stable supply
+TDR-VJ4D4,Regional Dairy,SNA-023,1.76,6,30000,10,96,yes,2.15,0.15,300,ml,DE,FSC packaging,-,BUNDLE-SKIN,2.7,Rebate tied to volume
+TDR-VJ4D4,Unilever,SNA-023,2.11,24,56419,6,97,yes,1.43,0.84,90,g,IE,Vegan,nuts,BUNDLE-ORAL,1.7,Stable supply
+TDR-VJ4D4,GreenFoods,SNA-023,1.82,6,33891,14,99,no,1.6,0.0,500,units,PL,FSC packaging,none,BUNDLE-HAIR,2.2,Bundle available
+TDR-4WBOP,GreenFoods,ORA-021,2.59,18,30000,7,96,no,0.0,0.78,90,g,UK,-,none,BUNDLE-ORAL,3.8,Bundle available
+TDR-4WBOP,Acme Beauty,ORA-021,3.1,24,50895,6,99,yes,1.2,0.84,75,units,EU,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,4.0,Freight included
+TDR-4WBOP,Own Label Co.,ORA-021,3.0,6,36745,12,99,yes,1.58,0.89,50,units,UK,Vegan|Cruelty Free,none,BUNDLE-ORAL,2.3,Rebate tied to volume
+TDR-4WBOP,Unilever,ORA-021,2.97,12,30058,6,96,no,1.73,0.0,150,units,EU,Vegan|Cruelty Free,nuts,BUNDLE-SKIN,2.1,Winter LT risk
+TDR-V8SUF,Own Label Co.,HAI-007,3.2,12,56312,6,97,yes,0.44,0.9,50,g,FR,FSC packaging,none,BUNDLE-HAIR,1.8,Freight included
+TDR-V8SUF,P&G,HAI-007,3.59,18,30000,12,98,yes,0.92,2.2,400,g,PL,-,nuts,-,0.0,Freight included
+TDR-V8SUF,Acme Beauty,HAI-007,3.59,24,60729,14,99,yes,0.0,0.7,90,ml,UK,Vegan,nuts,BUNDLE-ORAL,1.1,Bundle available
+TDR-V8SUF,OptiCare,HAI-007,3.58,18,48651,12,99,yes,0.31,0.0,150,ml,FR,FSC packaging,-,BUNDLE-ORAL,1.6,Bundle available
+TDR-V8SUF,GreenFoods,HAI-007,3.35,12,44556,7,97,yes,1.66,2.11,2000,units,EU,Vegan,nuts,-,0.0,Bundle available
+TDR-5ULO9,Own Label Co.,ORA-016,1.88,12,54033,7,96,yes,1.79,1.16,300,L,EU,-,-,BUNDLE-ORAL,3.3,Stable supply
+TDR-5ULO9,GreenFoods,ORA-016,2.18,12,44559,7,96,yes,0.72,0.99,75,units,IE,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,3.1,Bundle available
+TDR-5ULO9,Unilever,ORA-016,2.09,12,69340,6,97,yes,0.0,0.95,90,ml,IE,-,none,BUNDLE-ORAL,3.6,Rebate tied to volume
+TDR-87NAC,Own Label Co.,DAI-040,1.53,24,56843,14,99,no,1.63,0.7,150,L,DE,Vegan|Cruelty Free,-,BUNDLE-ORAL,2.3,Stable supply
+TDR-87NAC,OptiCare,DAI-040,1.66,12,56020,10,97,no,1.13,0.0,300,g,DE,Vegan,-,BUNDLE-SKIN,2.9,Rebate tied to volume
+TDR-87NAC,P&G,DAI-040,1.7,6,54684,10,98,yes,0.36,1.5,75,units,IE,-,-,BUNDLE-HAIR,1.8,Rebate tied to volume
+TDR-87NAC,EuroChem,DAI-040,1.78,12,43553,10,98,yes,2.36,1.21,500,ml,IE,-,-,BUNDLE-ORAL,1.9,Stable supply
+TDR-DDRZQ,Niche Snacks,HAI-007,2.5,12,48759,14,98,no,1.16,1.55,300,units,PL,Vegan,milk,BUNDLE-HAIR,3.1,Stable supply
+TDR-DDRZQ,EuroChem,HAI-007,2.98,24,46530,12,98,no,1.21,1.19,400,ml,PL,Vegan,milk,BUNDLE-ORAL,3.3,Freight included
+TDR-DDRZQ,Unilever,HAI-007,2.48,12,55944,10,98,yes,1.66,1.59,400,L,ES,Vegan,nuts,BUNDLE-SKIN,2.8,Bundle available
+TDR-DDRZQ,Regional Dairy,HAI-007,2.72,9,54599,8,99,yes,1.0,1.04,90,L,IE,FSC packaging,-,BUNDLE-ORAL,1.3,Freight included
+TDR-DDRZQ,Own Label Co.,HAI-007,2.48,12,39393,7,97,no,0.0,0.35,90,L,PL,Vegan,nuts,BUNDLE-ORAL,2.7,Bundle available
+TDR-LID7S,P&G,SNA-026,1.86,6,49170,9,99,yes,1.11,1.93,90,L,DE,Vegan,none,BUNDLE-ORAL,3.7,Freight included
+TDR-LID7S,EuroChem,SNA-026,1.86,18,56736,8,96,yes,1.76,0.69,500,g,ES,Vegan,milk,-,0.0,Winter LT risk
+TDR-LID7S,Regional Dairy,SNA-026,1.88,9,30000,12,96,no,1.21,0.0,150,g,UK,Vegan|Cruelty Free,milk,-,0.0,Stable supply
+TDR-MWGE6,Regional Dairy,SKI-045,3.07,9,57397,7,99,no,0.75,0.96,400,ml,UK,-,none,BUNDLE-SKIN,2.6,Bundle available
+TDR-MWGE6,Niche Snacks,SKI-045,3.16,9,44514,9,98,yes,1.12,1.42,400,ml,EU,Vegan,milk,BUNDLE-SKIN,1.3,Stable supply
+TDR-MWGE6,EuroChem,SKI-045,3.59,12,54196,7,98,no,0.0,1.49,150,units,FR,Vegan,milk,BUNDLE-ORAL,3.1,Freight included
+TDR-MWGE6,GreenFoods,SKI-045,3.57,12,58058,9,96,yes,0.47,1.15,500,units,EU,Vegan|Cruelty Free,-,BUNDLE-SKIN,2.7,Stable supply
+TDR-MWGE6,Unilever,SKI-045,3.34,12,45673,14,99,yes,0.15,0.62,300,units,IE,Vegan|Cruelty Free,none,-,0.0,Bundle available
+TDR-O8HYO,GreenFoods,DAI-041,0.94,9,65797,8,96,yes,0.58,0.0,500,units,PL,-,milk,BUNDLE-HAIR,2.7,Bundle available
+TDR-O8HYO,EuroChem,DAI-041,1.08,6,42567,8,98,no,1.61,0.27,150,g,ES,-,milk,BUNDLE-ORAL,3.6,Winter LT risk
+TDR-O8HYO,OptiCare,DAI-041,1.11,6,34442,10,98,yes,1.8,0.52,400,L,EU,-,none,BUNDLE-ORAL,2.6,Stable supply
+TDR-IDT4V,Niche Snacks,ORA-019,2.19,6,49002,8,97,yes,1.44,0.87,50,g,FR,Vegan|Cruelty Free,-,BUNDLE-ORAL,2.0,Freight included
+TDR-IDT4V,Acme Beauty,ORA-019,2.56,9,58738,7,99,yes,1.89,0.42,400,ml,UK,FSC packaging,nuts,BUNDLE-ORAL,2.6,Freight included
+TDR-IDT4V,EuroChem,ORA-019,2.3,6,58882,9,99,yes,0.96,0.49,90,ml,FR,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,3.7,Rebate tied to volume
+TDR-IDT4V,P&G,ORA-019,2.2,24,44976,10,97,no,0.91,0.0,400,L,DE,Vegan|Cruelty Free,-,-,0.0,Stable supply
+TDR-C5PCN,Own Label Co.,SKI-050,2.78,12,41136,8,97,no,0.46,0.59,150,units,FR,-,nuts,BUNDLE-ORAL,1.9,Freight included
+TDR-C5PCN,GreenFoods,SKI-050,3.26,18,59448,7,96,no,0.47,0.3,75,ml,DE,Vegan,nuts,BUNDLE-ORAL,2.1,Bundle available
+TDR-C5PCN,P&G,SKI-050,2.93,18,41760,6,96,no,0.34,0.88,150,units,UK,FSC packaging,nuts,BUNDLE-HAIR,3.1,Stable supply
+TDR-C5PCN,Niche Snacks,SKI-050,3.04,24,32511,8,96,yes,1.12,0.38,400,L,UK,Vegan,none,-,0.0,Bundle available
+TDR-EOEV4,Niche Snacks,DAI-038,1.31,24,37856,8,98,yes,1.45,1.09,75,g,ES,-,none,-,0.0,Winter LT risk
+TDR-EOEV4,Regional Dairy,DAI-038,1.52,12,47806,6,99,no,0.0,0.62,90,units,FR,FSC packaging,-,BUNDLE-SKIN,1.5,Stable supply
+TDR-EOEV4,P&G,DAI-038,1.3,12,47165,8,97,yes,0.0,0.02,300,units,UK,Vegan|Cruelty Free,none,BUNDLE-HAIR,2.4,Freight included
+TDR-KPTG9,Acme Beauty,DAI-042,0.9,12,47929,10,98,no,2.07,0.65,2000,ml,DE,-,-,BUNDLE-HAIR,3.8,Stable supply
+TDR-KPTG9,OptiCare,DAI-042,1.07,12,62253,12,99,yes,0.96,0.31,90,units,EU,FSC packaging,nuts,BUNDLE-HAIR,1.2,Stable supply
+TDR-KPTG9,Own Label Co.,DAI-042,1.0,18,50973,14,96,yes,1.89,1.6,300,L,FR,Vegan,-,BUNDLE-ORAL,2.5,Freight included
+TDR-KPTG9,EuroChem,DAI-042,1.0,18,63109,14,97,yes,1.81,0.75,500,ml,IE,-,milk,BUNDLE-HAIR,2.0,Rebate tied to volume
+TDR-YXMOX,Unilever,ORA-018,2.42,18,34093,10,97,no,0.0,0.57,90,L,FR,Vegan,-,BUNDLE-SKIN,1.2,Freight included
+TDR-YXMOX,EuroChem,ORA-018,2.79,9,60832,14,96,yes,1.05,1.8,500,g,DE,Vegan|Cruelty Free,milk,BUNDLE-HAIR,1.2,Freight included
+TDR-YXMOX,Niche Snacks,ORA-018,2.77,12,48541,7,96,yes,1.46,0.81,150,g,ES,Vegan|Cruelty Free,-,BUNDLE-SKIN,2.9,Bundle available
+TDR-YXMOX,P&G,ORA-018,2.69,9,53100,9,96,no,0.14,1.17,75,units,EU,-,nuts,BUNDLE-HAIR,3.1,Winter LT risk
+TDR-YXMOX,Acme Beauty,ORA-018,2.84,6,64921,9,96,no,1.8,1.63,90,L,EU,-,none,-,0.0,Rebate tied to volume
+TDR-Y4WSY,GreenFoods,SNA-029,1.37,9,30000,7,97,yes,2.26,1.3,300,L,IE,Vegan,milk,BUNDLE-SKIN,3.2,Stable supply
+TDR-Y4WSY,Niche Snacks,SNA-029,1.37,6,54475,8,99,yes,1.53,0.0,400,g,IE,FSC packaging,none,BUNDLE-HAIR,2.7,Bundle available
+TDR-Y4WSY,Unilever,SNA-029,1.62,12,66330,12,96,yes,1.59,0.73,2000,ml,EU,Vegan|Cruelty Free,milk,-,0.0,Winter LT risk
+TDR-KWPNB,Regional Dairy,HAI-001,3.38,12,49374,12,99,yes,1.56,0.92,300,units,UK,FSC packaging,-,BUNDLE-SKIN,1.0,Winter LT risk
+TDR-KWPNB,Own Label Co.,HAI-001,3.41,12,55295,14,99,yes,0.48,0.09,50,g,ES,Vegan|Cruelty Free,none,-,0.0,Winter LT risk
+TDR-KWPNB,Acme Beauty,HAI-001,3.59,6,41852,6,98,no,0.31,0.3,2000,g,IE,Vegan|Cruelty Free,-,BUNDLE-HAIR,2.7,Winter LT risk
+TDR-KWPNB,OptiCare,HAI-001,3.81,24,51839,12,97,yes,0.0,0.88,500,ml,FR,-,none,BUNDLE-SKIN,4.0,Freight included
+TDR-T11XM,EuroChem,DAI-041,1.4,12,36901,10,97,yes,0.06,0.21,75,g,UK,Vegan,milk,-,0.0,Winter LT risk
+TDR-T11XM,Niche Snacks,DAI-041,1.6,18,30000,12,97,yes,0.8,1.54,75,ml,PL,Vegan,milk,BUNDLE-HAIR,3.0,Rebate tied to volume
+TDR-T11XM,Regional Dairy,DAI-041,1.45,24,51301,10,99,yes,1.42,0.92,75,units,PL,FSC packaging,-,BUNDLE-SKIN,1.6,Bundle available
+TDR-T11XM,Acme Beauty,DAI-041,1.57,9,73384,9,97,yes,1.0,0.57,2000,units,ES,-,none,-,0.0,Freight included
+TDR-T11XM,Own Label Co.,DAI-041,1.48,9,41738,7,99,yes,0.7,1.45,300,L,EU,Vegan|Cruelty Free,-,BUNDLE-HAIR,2.0,Winter LT risk
+TDR-L5R2I,Regional Dairy,SKI-044,3.08,6,40532,10,96,yes,1.33,1.12,75,ml,DE,FSC packaging,milk,BUNDLE-SKIN,2.0,Bundle available
+TDR-L5R2I,P&G,SKI-044,3.42,6,30000,9,98,no,0.17,0.98,50,units,PL,Vegan|Cruelty Free,-,-,0.0,Bundle available
+TDR-L5R2I,Unilever,SKI-044,3.11,9,43150,10,97,no,2.11,1.49,75,ml,DE,Vegan|Cruelty Free,none,BUNDLE-HAIR,1.6,Winter LT risk
+TDR-9FXHF,Niche Snacks,ORA-021,3.57,12,44715,8,97,yes,2.31,1.26,50,ml,DE,FSC packaging,milk,-,0.0,Bundle available
+TDR-9FXHF,P&G,ORA-021,3.92,12,37697,6,97,no,0.1,1.36,300,units,PL,Vegan|Cruelty Free,-,-,0.0,Winter LT risk
+TDR-9FXHF,Acme Beauty,ORA-021,3.83,18,49539,8,98,no,0.14,0.0,300,ml,UK,FSC packaging,milk,BUNDLE-HAIR,4.0,Winter LT risk
+TDR-9FXHF,Unilever,ORA-021,3.71,12,53266,10,98,no,1.1,1.31,300,L,EU,FSC packaging,milk,BUNDLE-HAIR,1.3,Freight included
+TDR-GLKB6,OptiCare,SNA-033,1.6,12,42819,14,97,yes,0.46,1.46,90,ml,UK,-,nuts,BUNDLE-ORAL,2.4,Winter LT risk
+TDR-GLKB6,Regional Dairy,SNA-033,1.85,12,40020,9,97,no,2.72,1.4,75,L,FR,Vegan,nuts,BUNDLE-SKIN,2.4,Rebate tied to volume
+TDR-GLKB6,EuroChem,SNA-033,1.65,12,38213,6,97,yes,2.02,0.52,500,units,EU,-,milk,BUNDLE-SKIN,1.2,Rebate tied to volume
+TDR-GLKB6,Niche Snacks,SNA-033,1.68,18,56774,9,97,yes,2.18,0.09,90,L,DE,FSC packaging,none,-,0.0,Stable supply
+TDR-0AI4Z,Niche Snacks,HAI-002,2.53,24,45513,6,97,yes,0.91,0.48,300,units,ES,-,milk,BUNDLE-ORAL,3.1,Stable supply
+TDR-0AI4Z,Own Label Co.,HAI-002,2.63,9,50866,6,97,no,1.64,1.76,150,units,PL,Vegan,nuts,BUNDLE-HAIR,1.9,Rebate tied to volume
+TDR-0AI4Z,P&G,HAI-002,2.98,12,44627,14,98,yes,1.0,1.05,75,L,EU,FSC packaging,none,BUNDLE-SKIN,3.7,Stable supply
+TDR-0AI4Z,OptiCare,HAI-002,2.54,12,47072,6,99,no,0.0,1.76,500,ml,UK,Vegan|Cruelty Free,-,BUNDLE-ORAL,2.2,Stable supply
+TDR-0AI4Z,Unilever,HAI-002,2.73,18,50854,6,99,no,1.05,1.25,500,ml,EU,FSC packaging,milk,BUNDLE-HAIR,3.1,Bundle available
+TDR-O71MI,GreenFoods,DAI-039,0.94,18,56328,6,96,no,1.24,1.16,50,units,DE,Vegan|Cruelty Free,-,BUNDLE-HAIR,1.6,Rebate tied to volume
+TDR-O71MI,EuroChem,DAI-039,0.99,12,30000,8,99,yes,1.91,0.35,150,ml,FR,-,-,BUNDLE-HAIR,2.6,Winter LT risk
+TDR-O71MI,Niche Snacks,DAI-039,1.06,24,30944,8,96,no,0.0,0.8,400,ml,UK,-,milk,BUNDLE-ORAL,1.2,Winter LT risk
+TDR-O71MI,Regional Dairy,DAI-039,1.1,18,30497,9,99,yes,1.55,0.01,2000,L,UK,Vegan|Cruelty Free,none,BUNDLE-HAIR,2.5,Stable supply
+TDR-G2031,Own Label Co.,SNA-028,1.54,9,53711,7,99,no,0.87,1.08,400,g,PL,FSC packaging,-,-,0.0,Stable supply
+TDR-G2031,Unilever,SNA-028,1.55,9,56256,9,96,yes,2.68,0.49,2000,ml,UK,FSC packaging,-,-,0.0,Freight included
+TDR-G2031,Regional Dairy,SNA-028,1.54,9,59092,14,96,no,1.46,0.8,500,g,PL,-,-,BUNDLE-SKIN,1.1,Freight included
+TDR-Z35LZ,P&G,DAI-034,1.08,24,55855,10,96,yes,1.47,0.46,50,units,EU,Vegan|Cruelty Free,milk,-,0.0,Bundle available
+TDR-Z35LZ,Own Label Co.,DAI-034,1.09,6,66149,14,99,yes,1.97,1.67,2000,L,IE,Vegan,-,BUNDLE-ORAL,1.4,Bundle available
+TDR-Z35LZ,Acme Beauty,DAI-034,1.21,24,44624,8,99,no,1.81,0.6,75,units,DE,FSC packaging,none,BUNDLE-SKIN,2.2,Bundle available
+TDR-SK1BM,OptiCare,ORA-019,2.03,24,41536,6,99,no,0.14,0.3,500,ml,UK,FSC packaging,milk,-,0.0,Rebate tied to volume
+TDR-SK1BM,EuroChem,ORA-019,2.38,24,48592,10,98,no,0.0,1.44,50,units,EU,-,-,BUNDLE-SKIN,2.8,Bundle available
+TDR-SK1BM,Own Label Co.,ORA-019,2.43,24,30000,14,96,yes,2.34,1.47,300,g,IE,FSC packaging,none,BUNDLE-SKIN,3.1,Freight included
+TDR-SK1BM,Acme Beauty,ORA-019,2.08,24,57459,12,97,no,1.98,0.65,2000,L,FR,Vegan,milk,-,0.0,Stable supply
+TDR-TN6KR,OptiCare,DAI-037,1.22,24,46028,12,96,yes,0.69,1.21,50,g,IE,-,nuts,BUNDLE-SKIN,3.8,Stable supply
+TDR-TN6KR,Acme Beauty,DAI-037,1.21,18,46175,10,97,yes,0.81,0.0,150,units,DE,FSC packaging,milk,BUNDLE-HAIR,1.8,Freight included
+TDR-TN6KR,P&G,DAI-037,1.45,18,30000,14,98,yes,1.82,1.79,50,L,IE,FSC packaging,none,-,0.0,Stable supply
+TDR-TN6KR,Unilever,DAI-037,1.43,12,59372,14,96,yes,0.85,1.37,400,ml,EU,FSC packaging,nuts,BUNDLE-ORAL,3.3,Rebate tied to volume
+TDR-0J4WQ,P&G,HAI-002,2.53,6,48389,10,96,yes,1.36,0.75,90,units,IE,Vegan,nuts,BUNDLE-HAIR,2.1,Winter LT risk
+TDR-0J4WQ,Niche Snacks,HAI-002,2.59,6,69013,6,98,yes,0.78,0.42,90,units,FR,-,nuts,BUNDLE-HAIR,2.1,Winter LT risk
+TDR-0J4WQ,EuroChem,HAI-002,2.8,24,62597,9,97,no,1.79,1.04,2000,L,IE,-,nuts,BUNDLE-HAIR,2.5,Rebate tied to volume
+TDR-0J4WQ,Regional Dairy,HAI-002,2.82,9,65721,7,96,no,1.65,1.09,75,g,IE,-,none,BUNDLE-ORAL,1.8,Winter LT risk
+TDR-0J4WQ,Unilever,HAI-002,2.96,24,40408,8,99,no,1.56,0.54,90,units,UK,Vegan,milk,BUNDLE-SKIN,2.1,Stable supply
+TDR-URK9K,Regional Dairy,SNA-023,1.89,9,60258,6,96,yes,1.29,1.11,500,ml,EU,Vegan|Cruelty Free,-,-,0.0,Freight included
+TDR-URK9K,GreenFoods,SNA-023,1.88,6,53489,6,99,yes,1.14,0.77,150,g,DE,FSC packaging,milk,BUNDLE-SKIN,3.8,Rebate tied to volume
+TDR-URK9K,Own Label Co.,SNA-023,2.14,24,62749,14,97,yes,0.0,1.22,75,L,ES,-,milk,-,0.0,Stable supply
+TDR-NB6U8,EuroChem,SNA-023,1.93,12,31935,9,98,yes,0.77,1.82,2000,L,ES,Vegan,none,BUNDLE-SKIN,1.5,Bundle available
+TDR-NB6U8,GreenFoods,SNA-023,2.07,12,70607,8,99,yes,1.4,0.62,500,ml,EU,Vegan|Cruelty Free,-,BUNDLE-HAIR,1.6,Bundle available
+TDR-NB6U8,Regional Dairy,SNA-023,2.15,12,62652,14,98,yes,2.32,0.0,75,ml,ES,Vegan|Cruelty Free,milk,BUNDLE-SKIN,1.0,Rebate tied to volume
+TDR-NB6U8,P&G,SNA-023,1.98,12,39997,8,99,yes,0.53,1.3,300,units,DE,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,2.6,Rebate tied to volume
+TDR-IBEMG,Unilever,HAI-008,2.2,12,43658,12,96,yes,0.87,0.86,2000,L,IE,Vegan|Cruelty Free,-,-,0.0,Freight included
+TDR-IBEMG,EuroChem,HAI-008,2.35,24,47798,7,96,yes,1.65,0.0,150,L,ES,Vegan|Cruelty Free,-,BUNDLE-ORAL,2.1,Rebate tied to volume
+TDR-IBEMG,OptiCare,HAI-008,2.27,24,57783,9,99,yes,0.81,0.37,500,ml,EU,Vegan,milk,-,0.0,Rebate tied to volume
+TDR-X0GP1,Own Label Co.,ORA-021,2.74,12,55047,14,99,no,0.7,0.48,400,units,FR,Vegan|Cruelty Free,nuts,BUNDLE-SKIN,3.6,Winter LT risk
+TDR-X0GP1,Acme Beauty,ORA-021,3.25,12,45684,8,99,no,1.36,2.48,2000,ml,ES,Vegan|Cruelty Free,none,BUNDLE-HAIR,2.3,Bundle available
+TDR-X0GP1,Regional Dairy,ORA-021,3.28,12,36293,14,96,yes,0.88,1.78,150,units,IE,-,-,BUNDLE-SKIN,3.2,Rebate tied to volume
+TDR-X0GP1,Unilever,ORA-021,3.14,6,44015,12,96,yes,0.42,1.05,150,ml,ES,Vegan|Cruelty Free,milk,BUNDLE-ORAL,3.6,Bundle available
+TDR-X0GP1,Niche Snacks,ORA-021,2.87,18,46054,8,99,yes,0.14,0.44,75,ml,UK,FSC packaging,milk,-,0.0,Freight included
+TDR-YX5XV,OptiCare,DAI-038,1.19,24,58977,8,98,yes,1.04,1.28,150,L,EU,FSC packaging,nuts,BUNDLE-HAIR,1.8,Freight included
+TDR-YX5XV,Acme Beauty,DAI-038,1.38,9,39342,10,99,no,2.19,1.35,75,g,PL,-,milk,BUNDLE-HAIR,3.1,Bundle available
+TDR-YX5XV,Niche Snacks,DAI-038,1.32,12,53838,9,97,no,0.61,1.81,400,ml,UK,FSC packaging,-,BUNDLE-ORAL,1.1,Winter LT risk
+TDR-YX5XV,Regional Dairy,DAI-038,1.21,9,53834,10,97,yes,2.09,0.98,150,L,DE,FSC packaging,milk,BUNDLE-SKIN,2.1,Bundle available
+TDR-YX5XV,Unilever,DAI-038,1.36,18,34590,14,96,no,0.0,1.34,500,L,ES,Vegan|Cruelty Free,-,BUNDLE-HAIR,2.2,Freight included
+TDR-F1DDG,P&G,SNA-027,1.41,12,30000,14,97,yes,2.02,0.41,2000,ml,FR,-,milk,BUNDLE-HAIR,1.0,Freight included
+TDR-F1DDG,Niche Snacks,SNA-027,1.65,12,53073,10,99,no,1.39,1.38,90,g,PL,FSC packaging,milk,-,0.0,Bundle available
+TDR-F1DDG,Regional Dairy,SNA-027,1.57,12,39454,12,97,no,1.88,0.48,90,g,ES,-,none,BUNDLE-ORAL,2.5,Rebate tied to volume
+TDR-2UJKP,Acme Beauty,DAI-042,0.97,6,58973,8,98,no,1.16,0.98,500,L,FR,FSC packaging,milk,BUNDLE-ORAL,4.0,Winter LT risk
+TDR-2UJKP,Unilever,DAI-042,1.1,9,78414,8,97,yes,1.86,1.68,150,units,PL,-,none,BUNDLE-ORAL,3.2,Winter LT risk
+TDR-2UJKP,P&G,DAI-042,1.16,18,30000,8,97,yes,0.68,1.39,400,ml,FR,-,milk,-,0.0,Rebate tied to volume
+TDR-HSNVA,Regional Dairy,ORA-020,3.1,12,49551,8,96,no,1.33,1.32,2000,units,PL,-,none,BUNDLE-ORAL,2.2,Freight included
+TDR-HSNVA,Acme Beauty,ORA-020,3.23,18,47212,7,99,yes,0.7,1.03,400,g,EU,-,none,BUNDLE-HAIR,2.7,Stable supply
+TDR-HSNVA,P&G,ORA-020,3.43,6,48030,7,97,yes,0.74,0.79,2000,L,IE,FSC packaging,milk,-,0.0,Stable supply
+TDR-ZTH5D,Acme Beauty,SKI-050,2.96,24,59350,7,99,no,0.0,0.89,2000,g,UK,-,none,-,0.0,Winter LT risk
+TDR-ZTH5D,OptiCare,SKI-050,3.21,6,48873,9,97,no,1.8,1.18,90,ml,DE,Vegan|Cruelty Free,-,BUNDLE-HAIR,3.3,Winter LT risk
+TDR-ZTH5D,P&G,SKI-050,2.98,18,51500,14,98,yes,1.36,0.27,75,units,PL,FSC packaging,nuts,BUNDLE-ORAL,3.8,Bundle available
+TDR-ZTH5D,Niche Snacks,SKI-050,3.34,12,53028,7,97,no,1.28,0.03,75,units,IE,Vegan|Cruelty Free,none,BUNDLE-ORAL,1.4,Stable supply
+TDR-ZTH5D,Unilever,SKI-050,2.94,9,60049,14,98,yes,1.72,0.09,75,units,UK,Vegan,milk,BUNDLE-SKIN,2.0,Freight included
+TDR-4PI9K,Unilever,SNA-030,2.0,12,48626,14,98,yes,0.82,0.6,50,g,ES,Vegan|Cruelty Free,none,BUNDLE-HAIR,1.2,Winter LT risk
+TDR-4PI9K,EuroChem,SNA-030,2.25,9,49139,12,96,no,2.22,0.24,75,ml,DE,Vegan|Cruelty Free,none,BUNDLE-SKIN,3.7,Freight included
+TDR-4PI9K,Acme Beauty,SNA-030,2.22,24,53126,14,98,yes,1.08,0.16,50,units,DE,-,none,BUNDLE-ORAL,2.4,Stable supply
+TDR-4PI9K,Niche Snacks,SNA-030,2.34,9,43280,12,97,yes,1.2,0.52,90,ml,FR,-,nuts,BUNDLE-SKIN,2.5,Freight included
+TDR-HERJU,P&G,HAI-001,3.04,6,49860,9,99,no,0.68,1.06,50,ml,ES,Vegan,-,BUNDLE-HAIR,2.9,Freight included
+TDR-HERJU,GreenFoods,HAI-001,3.25,9,36345,7,99,yes,1.73,0.47,500,L,PL,Vegan,nuts,-,0.0,Freight included
+TDR-HERJU,OptiCare,HAI-001,3.46,12,34104,10,96,no,1.03,1.32,90,g,EU,Vegan,none,BUNDLE-ORAL,1.0,Stable supply
+TDR-HERJU,Regional Dairy,HAI-001,2.99,9,57287,6,96,yes,0.44,0.97,90,ml,UK,FSC packaging,-,BUNDLE-HAIR,1.1,Freight included
+TDR-R88NJ,Regional Dairy,HAI-005,2.56,24,33504,12,97,yes,1.92,0.04,2000,units,EU,Vegan,milk,BUNDLE-HAIR,3.0,Winter LT risk
+TDR-R88NJ,P&G,HAI-005,2.52,24,41659,7,99,yes,0.49,0.34,75,L,FR,Vegan|Cruelty Free,none,BUNDLE-ORAL,3.4,Rebate tied to volume
+TDR-R88NJ,Unilever,HAI-005,2.57,12,32277,10,99,no,0.93,0.0,50,g,PL,FSC packaging,-,-,0.0,Freight included
+TDR-R88NJ,Niche Snacks,HAI-005,2.95,18,43599,10,98,no,1.2,2.07,500,g,ES,-,milk,BUNDLE-ORAL,2.3,Rebate tied to volume
+TDR-17W35,OptiCare,ORA-015,2.52,12,53947,6,98,no,2.38,1.09,75,units,ES,FSC packaging,nuts,-,0.0,Winter LT risk
+TDR-17W35,Unilever,ORA-015,3.01,9,62749,10,96,yes,0.36,1.71,50,L,IE,FSC packaging,milk,-,0.0,Stable supply
+TDR-17W35,GreenFoods,ORA-015,2.56,24,49738,7,99,yes,0.84,1.25,2000,units,ES,Vegan,nuts,BUNDLE-HAIR,3.4,Winter LT risk
+TDR-903G9,Unilever,DAI-042,0.93,12,39268,10,99,yes,0.67,1.58,50,units,FR,Vegan|Cruelty Free,none,BUNDLE-SKIN,3.8,Rebate tied to volume
+TDR-903G9,GreenFoods,DAI-042,1.01,18,34058,7,96,no,1.42,0.68,50,units,ES,Vegan|Cruelty Free,none,BUNDLE-HAIR,3.2,Freight included
+TDR-903G9,Regional Dairy,DAI-042,1.0,9,32914,10,98,yes,1.63,0.0,2000,g,FR,-,none,BUNDLE-ORAL,1.7,Rebate tied to volume
+TDR-27CM1,Own Label Co.,SNA-032,1.73,6,47357,8,99,no,0.9,0.68,90,L,IE,Vegan,-,-,0.0,Winter LT risk
+TDR-27CM1,Niche Snacks,SNA-032,2.0,9,43601,14,98,no,2.23,1.33,90,L,PL,-,-,BUNDLE-HAIR,1.2,Winter LT risk
+TDR-27CM1,Regional Dairy,SNA-032,2.02,24,57457,9,97,no,0.84,1.72,90,g,ES,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,2.5,Stable supply
+TDR-AJPV3,Niche Snacks,ORA-015,2.31,12,40193,9,99,yes,3.05,0.74,90,L,UK,FSC packaging,milk,BUNDLE-HAIR,3.6,Rebate tied to volume
+TDR-AJPV3,OptiCare,ORA-015,2.54,24,40354,7,99,yes,1.26,0.68,90,g,PL,FSC packaging,nuts,BUNDLE-HAIR,2.3,Stable supply
+TDR-AJPV3,EuroChem,ORA-015,2.36,12,33671,12,98,yes,1.28,1.7,500,g,UK,-,none,BUNDLE-HAIR,1.6,Bundle available
+TDR-AJPV3,Own Label Co.,ORA-015,2.42,18,60581,9,98,no,0.0,1.06,150,L,IE,-,milk,-,0.0,Rebate tied to volume
+TDR-4M9NA,Own Label Co.,SKI-050,3.11,24,54761,6,96,yes,1.63,1.0,90,L,IE,Vegan,-,BUNDLE-HAIR,2.7,Stable supply
+TDR-4M9NA,GreenFoods,SKI-050,3.3,18,33442,14,98,yes,0.32,1.93,50,L,PL,Vegan,-,BUNDLE-ORAL,2.3,Rebate tied to volume
+TDR-4M9NA,Regional Dairy,SKI-050,3.32,24,36646,6,97,no,1.2,1.19,400,L,PL,-,none,BUNDLE-HAIR,1.7,Bundle available
+TDR-4M9NA,Unilever,SKI-050,3.47,18,41211,9,98,no,0.59,0.06,90,units,PL,-,nuts,BUNDLE-HAIR,1.6,Rebate tied to volume
+TDR-4M9NA,EuroChem,SKI-050,3.2,12,51417,7,96,no,3.73,0.0,90,ml,EU,-,-,BUNDLE-HAIR,2.6,Rebate tied to volume
+TDR-WXN74,OptiCare,SNA-031,1.53,12,45330,10,99,yes,0.88,1.09,50,L,IE,Vegan,none,BUNDLE-ORAL,3.1,Stable supply
+TDR-WXN74,Unilever,SNA-031,1.58,18,53540,6,97,yes,2.23,0.25,300,L,IE,Vegan,nuts,BUNDLE-SKIN,2.1,Stable supply
+TDR-WXN74,Acme Beauty,SNA-031,1.61,24,69968,8,98,yes,0.8,1.04,90,units,EU,FSC packaging,-,BUNDLE-HAIR,2.9,Stable supply
+TDR-WXN74,Regional Dairy,SNA-031,1.51,12,50330,7,98,no,2.56,0.26,150,units,PL,Vegan,milk,BUNDLE-SKIN,3.0,Bundle available
+TDR-WXN74,GreenFoods,SNA-031,1.67,18,30000,14,96,no,0.75,1.22,300,ml,EU,-,milk,BUNDLE-SKIN,3.6,Bundle available
+TDR-4RA4S,Own Label Co.,ORA-016,3.14,6,38505,6,97,no,0.64,0.57,500,L,PL,Vegan,nuts,BUNDLE-ORAL,3.8,Bundle available
+TDR-4RA4S,OptiCare,ORA-016,3.63,12,40752,8,97,yes,0.28,1.45,2000,ml,PL,-,milk,-,0.0,Winter LT risk
+TDR-4RA4S,Unilever,ORA-016,3.23,12,64901,12,99,no,0.07,0.86,400,L,ES,-,nuts,-,0.0,Winter LT risk
+TDR-4RA4S,GreenFoods,ORA-016,3.33,6,33084,12,97,no,1.56,1.56,500,ml,UK,-,nuts,BUNDLE-SKIN,1.4,Rebate tied to volume
+TDR-4RA4S,EuroChem,ORA-016,3.29,6,49945,7,97,yes,1.1,1.58,90,units,FR,Vegan,nuts,-,0.0,Stable supply
+TDR-NP6CX,GreenFoods,SKI-051,3.08,24,48528,7,97,yes,0.65,0.0,90,g,IE,FSC packaging,-,BUNDLE-ORAL,2.9,Bundle available
+TDR-NP6CX,Regional Dairy,SKI-051,3.04,24,62054,8,98,no,1.08,1.6,2000,ml,PL,FSC packaging,nuts,BUNDLE-SKIN,1.7,Stable supply
+TDR-NP6CX,Acme Beauty,SKI-051,3.24,18,62793,14,98,no,0.49,0.66,50,units,DE,Vegan|Cruelty Free,none,BUNDLE-ORAL,3.2,Freight included
+TDR-FILSF,Own Label Co.,SKI-046,2.5,12,56061,8,96,no,0.44,0.35,2000,ml,UK,FSC packaging,none,-,0.0,Rebate tied to volume
+TDR-FILSF,EuroChem,SKI-046,2.86,12,51472,7,98,no,1.32,0.25,2000,ml,ES,FSC packaging,milk,BUNDLE-ORAL,1.2,Freight included
+TDR-FILSF,GreenFoods,SKI-046,2.77,24,61843,7,99,yes,0.0,1.31,500,ml,DE,-,nuts,BUNDLE-SKIN,1.1,Stable supply
+TDR-FILSF,P&G,SKI-046,2.54,9,58580,7,97,yes,0.97,1.0,50,units,PL,-,none,-,0.0,Rebate tied to volume
+TDR-FILSF,Acme Beauty,SKI-046,2.9,12,66083,12,99,no,1.22,0.8,300,g,ES,FSC packaging,-,BUNDLE-ORAL,3.3,Freight included
+TDR-GZDK3,GreenFoods,DAI-036,1.03,6,38622,9,98,yes,2.31,0.41,50,units,IE,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,3.5,Winter LT risk
+TDR-GZDK3,P&G,DAI-036,1.19,12,32869,6,98,yes,1.26,0.4,500,ml,IE,-,milk,BUNDLE-ORAL,2.0,Winter LT risk
+TDR-GZDK3,Own Label Co.,DAI-036,1.1,9,57534,14,96,no,0.0,0.81,75,units,DE,-,nuts,-,0.0,Bundle available
+TDR-F7C2G,EuroChem,ORA-015,2.41,9,51731,9,98,yes,1.27,0.34,300,ml,UK,-,milk,-,0.0,Rebate tied to volume
+TDR-F7C2G,OptiCare,ORA-015,2.47,18,57454,8,96,yes,1.17,0.42,500,ml,PL,-,none,BUNDLE-ORAL,1.0,Bundle available
+TDR-F7C2G,Niche Snacks,ORA-015,2.59,6,49968,7,99,yes,1.78,0.36,400,ml,DE,-,milk,-,0.0,Stable supply
+TDR-F7C2G,Unilever,ORA-015,2.87,24,44198,14,99,yes,1.0,0.57,150,g,FR,-,milk,BUNDLE-SKIN,2.1,Winter LT risk
+TDR-O59NH,Acme Beauty,ORA-020,2.28,18,53755,10,97,yes,2.14,0.69,50,ml,EU,FSC packaging,milk,BUNDLE-HAIR,2.6,Freight included
+TDR-O59NH,EuroChem,ORA-020,2.7,18,69127,8,99,yes,1.71,1.31,50,ml,IE,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,3.8,Freight included
+TDR-O59NH,GreenFoods,ORA-020,2.42,18,54248,14,97,no,1.54,1.63,50,ml,DE,-,milk,-,0.0,Bundle available
+TDR-O59NH,Regional Dairy,ORA-020,2.29,12,40425,7,97,no,0.96,1.03,75,units,EU,Vegan,nuts,-,0.0,Stable supply
+TDR-X8P6T,Acme Beauty,DAI-035,1.27,6,31814,9,96,yes,0.56,0.77,500,L,ES,Vegan|Cruelty Free,-,BUNDLE-SKIN,2.9,Stable supply
+TDR-X8P6T,OptiCare,DAI-035,1.47,12,49261,14,99,yes,1.46,0.76,75,ml,ES,FSC packaging,none,-,0.0,Stable supply
+TDR-X8P6T,EuroChem,DAI-035,1.35,12,39746,14,97,yes,1.53,1.94,500,units,ES,FSC packaging,nuts,BUNDLE-SKIN,1.8,Freight included
+TDR-BMB9B,Acme Beauty,HAI-007,3.18,12,45820,8,96,no,0.96,0.0,90,L,PL,Vegan|Cruelty Free,nuts,BUNDLE-HAIR,1.1,Freight included
+TDR-BMB9B,EuroChem,HAI-007,3.4,18,34332,9,99,no,1.26,0.63,90,g,EU,-,milk,-,0.0,Bundle available
+TDR-BMB9B,Own Label Co.,HAI-007,3.32,6,48039,9,97,no,0.69,1.57,2000,units,UK,FSC packaging,none,-,0.0,Rebate tied to volume
+TDR-P3RUR,P&G,HAI-008,2.36,9,51314,6,97,yes,1.25,0.1,400,units,PL,Vegan|Cruelty Free,milk,BUNDLE-HAIR,3.4,Rebate tied to volume
+TDR-P3RUR,Acme Beauty,HAI-008,2.79,9,45310,14,96,yes,0.88,0.75,400,ml,UK,-,none,-,0.0,Bundle available
+TDR-P3RUR,GreenFoods,HAI-008,2.75,12,30486,10,99,no,1.53,0.79,2000,L,IE,Vegan,-,BUNDLE-HAIR,3.8,Rebate tied to volume
+TDR-P3RUR,Unilever,HAI-008,2.4,9,32398,14,99,yes,0.24,1.31,300,units,UK,-,milk,BUNDLE-ORAL,2.8,Bundle available
+TDR-7ODAB,GreenFoods,HAI-001,2.16,6,72605,9,96,no,0.0,0.8,500,ml,IE,FSC packaging,none,-,0.0,Winter LT risk
+TDR-7ODAB,Unilever,HAI-001,2.31,12,52233,6,97,yes,0.57,1.08,150,ml,FR,-,none,BUNDLE-SKIN,1.2,Rebate tied to volume
+TDR-7ODAB,Acme Beauty,HAI-001,2.46,9,73550,10,96,yes,1.6,0.35,90,g,EU,Vegan|Cruelty Free,milk,BUNDLE-ORAL,3.0,Freight included
+TDR-VU4GQ,Niche Snacks,HAI-005,2.62,12,51903,9,97,no,0.97,1.54,2000,g,FR,-,none,BUNDLE-HAIR,2.3,Winter LT risk
+TDR-VU4GQ,EuroChem,HAI-005,2.78,9,42052,12,99,no,1.32,2.24,150,L,UK,-,-,BUNDLE-HAIR,3.8,Freight included
+TDR-VU4GQ,Acme Beauty,HAI-005,3.09,12,68432,6,96,yes,3.0,0.54,75,L,DE,Vegan,-,-,0.0,Bundle available
+TDR-35UJ4,Niche Snacks,SKI-051,3.52,24,52558,10,96,yes,2.45,0.33,50,g,IE,Vegan|Cruelty Free,-,BUNDLE-SKIN,2.7,Stable supply
+TDR-35UJ4,Acme Beauty,SKI-051,3.79,12,42055,7,98,no,0.31,0.04,2000,g,ES,-,-,-,0.0,Winter LT risk
+TDR-35UJ4,P&G,SKI-051,3.48,18,38565,7,99,yes,1.08,0.94,400,ml,FR,Vegan|Cruelty Free,none,-,0.0,Stable supply
+TDR-35UJ4,GreenFoods,SKI-051,3.53,24,43857,12,97,yes,0.92,1.95,90,units,EU,Vegan,milk,BUNDLE-ORAL,1.7,Freight included
+TDR-35UJ4,Own Label Co.,SKI-051,3.89,12,58605,6,98,no,1.04,0.78,150,L,EU,FSC packaging,milk,BUNDLE-ORAL,2.1,Winter LT risk
+TDR-UN0HI,Niche Snacks,HAI-008,2.74,9,54371,6,98,no,0.25,0.92,2000,ml,FR,Vegan|Cruelty Free,none,BUNDLE-SKIN,2.6,Freight included
+TDR-UN0HI,Regional Dairy,HAI-008,2.75,12,59141,7,96,no,0.35,0.72,2000,ml,UK,-,nuts,BUNDLE-HAIR,3.9,Rebate tied to volume
+TDR-UN0HI,OptiCare,HAI-008,2.78,12,66698,10,96,no,1.66,0.0,50,g,IE,-,none,-,0.0,Stable supply
+TDR-UN0HI,Acme Beauty,HAI-008,2.95,12,39736,6,97,no,1.2,0.33,500,L,EU,-,-,-,0.0,Freight included
+TDR-Y66BB,EuroChem,DAI-041,1.05,12,54106,9,99,yes,0.37,0.46,500,g,EU,Vegan|Cruelty Free,milk,BUNDLE-HAIR,3.2,Stable supply
+TDR-Y66BB,Regional Dairy,DAI-041,1.04,12,47299,10,97,yes,1.18,0.36,150,g,EU,FSC packaging,none,BUNDLE-SKIN,2.5,Winter LT risk
+TDR-Y66BB,OptiCare,DAI-041,1.08,12,34500,12,96,yes,1.62,1.28,75,ml,UK,Vegan,none,-,0.0,Winter LT risk
+TDR-1DGB1,EuroChem,HAI-003,3.2,18,57146,9,98,yes,1.19,0.34,500,units,DE,Vegan|Cruelty Free,none,BUNDLE-ORAL,1.8,Stable supply
+TDR-1DGB1,Regional Dairy,HAI-003,3.47,9,54002,10,99,yes,0.3,0.0,150,units,IE,FSC packaging,nuts,-,0.0,Freight included
+TDR-1DGB1,GreenFoods,HAI-003,3.47,12,50726,9,98,no,2.18,1.01,300,units,IE,-,-,-,0.0,Freight included
+TDR-BFHKN,Unilever,SKI-047,2.67,12,61401,10,96,no,0.75,0.16,2000,g,DE,-,milk,-,0.0,Freight included
+TDR-BFHKN,GreenFoods,SKI-047,2.63,6,72057,6,97,yes,1.23,1.03,2000,L,ES,-,milk,BUNDLE-SKIN,1.4,Rebate tied to volume
+TDR-BFHKN,Own Label Co.,SKI-047,3.17,12,45745,6,96,yes,0.6,1.05,300,g,PL,-,milk,BUNDLE-SKIN,1.3,Freight included
+TDR-BFHKN,OptiCare,SKI-047,2.66,6,30000,7,97,yes,1.39,0.51,400,g,ES,-,-,BUNDLE-HAIR,1.0,Rebate tied to volume
+TDR-Z6E5A,Niche Snacks,SKI-049,3.35,18,62241,10,96,no,1.46,1.73,150,L,FR,Vegan,nuts,-,0.0,Winter LT risk
+TDR-Z6E5A,OptiCare,SKI-049,3.45,12,36301,12,99,yes,0.68,0.92,500,L,EU,-,nuts,BUNDLE-HAIR,2.6,Freight included
+TDR-Z6E5A,Own Label Co.,SKI-049,3.43,9,35170,9,96,yes,0.85,0.0,2000,ml,ES,-,none,-,0.0,Bundle available
+TDR-Z6E5A,Regional Dairy,SKI-049,3.4,12,48842,14,97,yes,0.76,1.28,75,units,PL,-,nuts,BUNDLE-SKIN,1.7,Stable supply
+TDR-TQL0R,Regional Dairy,SKI-046,3.4,9,37769,12,97,no,2.15,0.03,2000,g,EU,FSC packaging,milk,BUNDLE-SKIN,3.1,Bundle available
+TDR-TQL0R,P&G,SKI-046,3.59,12,53538,8,97,no,2.34,1.14,300,ml,PL,Vegan,milk,BUNDLE-HAIR,3.5,Stable supply
+TDR-TQL0R,EuroChem,SKI-046,3.53,9,56440,10,99,yes,0.29,0.0,2000,ml,EU,Vegan|Cruelty Free,milk,BUNDLE-ORAL,1.8,Winter LT risk
+TDR-IFVGA,Regional Dairy,SNA-029,1.43,12,44970,9,96,yes,0.06,0.84,500,L,ES,Vegan|Cruelty Free,milk,-,0.0,Stable supply
+TDR-IFVGA,Niche Snacks,SNA-029,1.46,18,63017,7,99,yes,1.65,0.0,75,L,ES,-,-,BUNDLE-HAIR,1.3,Stable supply
+TDR-IFVGA,P&G,SNA-029,1.56,12,39305,9,96,no,1.41,1.38,2000,ml,UK,Vegan,-,BUNDLE-HAIR,3.1,Stable supply
+TDR-RKJHN,Regional Dairy,HAI-004,2.57,6,48260,7,97,yes,0.66,0.77,400,ml,FR,Vegan,-,BUNDLE-ORAL,3.8,Bundle available
+TDR-RKJHN,Unilever,HAI-004,3.07,18,39843,7,96,yes,1.57,1.59,2000,L,UK,-,none,-,0.0,Freight included
+TDR-RKJHN,P&G,HAI-004,2.82,12,52281,6,97,yes,1.07,1.04,50,L,IE,-,none,BUNDLE-SKIN,1.0,Stable supply
+TDR-RKJHN,EuroChem,HAI-004,2.69,12,55468,6,97,yes,0.0,1.85,90,ml,DE,Vegan|Cruelty Free,none,-,0.0,Bundle available
+TDR-RKJHN,Niche Snacks,HAI-004,2.87,12,47072,10,98,yes,1.6,0.64,75,ml,IE,-,nuts,-,0.0,Stable supply
+TDR-MDGJQ,EuroChem,ORA-016,2.81,9,48943,10,99,no,0.0,1.79,50,ml,UK,Vegan|Cruelty Free,nuts,-,0.0,Bundle available
+TDR-MDGJQ,P&G,ORA-016,3.19,12,40832,8,99,no,0.0,0.46,500,L,ES,Vegan,nuts,-,0.0,Rebate tied to volume
+TDR-MDGJQ,Niche Snacks,ORA-016,2.88,6,47058,8,99,yes,0.53,0.85,500,units,EU,Vegan,milk,BUNDLE-SKIN,2.2,Bundle available
+TDR-MDGJQ,GreenFoods,ORA-016,3.34,9,50766,6,98,yes,1.54,0.59,2000,units,FR,Vegan,milk,-,0.0,Winter LT risk
+TDR-MDGJQ,Own Label Co.,ORA-016,3.24,18,42651,6,97,yes,2.71,0.25,2000,g,PL,-,milk,BUNDLE-HAIR,2.6,Winter LT risk
+TDR-5AJI0,Regional Dairy,ORA-019,2.28,12,35386,7,98,yes,0.0,0.98,50,ml,IE,-,milk,BUNDLE-SKIN,3.4,Winter LT risk
+TDR-5AJI0,Acme Beauty,ORA-019,2.36,9,47759,9,98,yes,0.98,0.58,75,units,DE,Vegan,none,BUNDLE-HAIR,1.9,Rebate tied to volume
+TDR-5AJI0,Own Label Co.,ORA-019,2.32,6,49102,8,99,yes,1.62,0.64,500,units,UK,-,milk,-,0.0,Freight included
+TDR-5AJI0,Unilever,ORA-019,2.48,12,31861,9,96,yes,0.45,0.3,400,g,UK,Vegan,-,BUNDLE-ORAL,2.7,Stable supply
+TDR-5AJI0,Niche Snacks,ORA-019,2.33,6,57662,9,96,yes,1.55,1.18,500,ml,FR,Vegan,none,BUNDLE-SKIN,4.0,Freight included
+TDR-0QF8E,Acme Beauty,HAI-004,1.9,6,40251,10,97,yes,0.0,0.7,400,ml,FR,Vegan,nuts,BUNDLE-HAIR,1.5,Bundle available
+TDR-0QF8E,Niche Snacks,HAI-004,1.96,12,49099,14,99,yes,1.71,0.73,90,g,IE,-,none,-,0.0,Bundle available
+TDR-0QF8E,OptiCare,HAI-004,2.22,18,30000,9,96,no,0.8,0.59,400,g,IE,-,nuts,BUNDLE-SKIN,3.4,Bundle available
+TDR-0QF8E,GreenFoods,HAI-004,1.87,24,55408,7,97,yes,1.95,0.98,75,units,PL,FSC packaging,none,BUNDLE-ORAL,3.4,Stable supply
+TDR-0QF8E,EuroChem,HAI-004,2.22,24,68680,7,99,no,1.54,0.98,400,L,FR,-,nuts,BUNDLE-SKIN,1.1,Rebate tied to volume
+TDR-9WO2J,P&G,DAI-034,1.13,12,47816,8,97,yes,0.3,1.29,90,L,ES,-,-,-,0.0,Winter LT risk
+TDR-9WO2J,GreenFoods,DAI-034,1.27,6,41977,8,98,yes,0.18,0.31,75,ml,ES,Vegan|Cruelty Free,milk,-,0.0,Rebate tied to volume
+TDR-9WO2J,Niche Snacks,DAI-034,1.27,12,68208,14,97,no,0.34,0.99,90,ml,FR,FSC packaging,nuts,BUNDLE-ORAL,3.1,Winter LT risk
+TDR-9WO2J,Unilever,DAI-034,1.18,18,53716,14,99,yes,0.0,0.0,90,units,DE,Vegan,milk,BUNDLE-SKIN,1.5,Bundle available
+TDR-M0N8H,Own Label Co.,SKI-051,3.5,18,39306,6,98,yes,2.07,1.2,2000,g,PL,FSC packaging,none,BUNDLE-HAIR,1.6,Rebate tied to volume
+TDR-M0N8H,Acme Beauty,SKI-051,3.89,12,52223,14,97,yes,0.28,0.22,50,units,PL,-,none,BUNDLE-ORAL,3.0,Freight included
+TDR-M0N8H,Niche Snacks,SKI-051,3.79,18,31471,10,99,yes,0.0,0.52,50,L,UK,Vegan|Cruelty Free,none,BUNDLE-SKIN,3.4,Winter LT risk
+TDR-M0N8H,P&G,SKI-051,3.66,24,41860,6,98,yes,1.14,0.65,400,L,DE,Vegan|Cruelty Free,none,-,0.0,Winter LT risk
+TDR-CYV9X,OptiCare,HAI-008,2.17,6,32354,10,96,yes,0.84,0.25,150,L,PL,Vegan,nuts,-,0.0,Stable supply
+TDR-CYV9X,EuroChem,HAI-008,2.54,12,35501,8,98,no,1.22,0.83,400,L,EU,Vegan,none,BUNDLE-SKIN,1.2,Bundle available
+TDR-CYV9X,P&G,HAI-008,2.3,24,53612,8,99,yes,0.99,0.0,150,g,UK,-,nuts,BUNDLE-HAIR,3.5,Winter LT risk
+TDR-CYV9X,Own Label Co.,HAI-008,2.4,12,54207,12,97,no,0.23,0.0,2000,g,IE,-,none,BUNDLE-ORAL,1.9,Freight included
+TDR-P5NYV,Niche Snacks,HAI-001,3.26,9,63248,8,99,no,1.96,1.13,50,ml,UK,FSC packaging,milk,-,0.0,Rebate tied to volume
+TDR-P5NYV,Own Label Co.,HAI-001,3.56,12,41776,9,98,yes,2.49,1.01,150,units,DE,FSC packaging,milk,BUNDLE-SKIN,4.0,Stable supply
+TDR-P5NYV,P&G,HAI-001,3.42,9,51450,10,96,yes,1.73,1.33,500,ml,UK,FSC packaging,nuts,-,0.0,Rebate tied to volume
+TDR-P5NYV,Regional Dairy,HAI-001,3.67,12,55800,10,99,yes,0.32,1.52,2000,units,FR,FSC packaging,milk,BUNDLE-SKIN,3.7,Rebate tied to volume
+TDR-P5NYV,OptiCare,HAI-001,3.87,6,44164,10,97,no,1.17,0.88,90,L,EU,-,none,BUNDLE-ORAL,1.4,Winter LT risk
+TDR-IVH5E,Acme Beauty,SNA-029,1.94,12,45915,9,97,yes,0.32,1.32,75,L,FR,FSC packaging,-,BUNDLE-ORAL,3.5,Winter LT risk
+TDR-IVH5E,Regional Dairy,SNA-029,1.96,12,55406,10,98,no,1.44,1.93,500,units,UK,-,none,BUNDLE-SKIN,1.5,Stable supply
+TDR-IVH5E,Own Label Co.,SNA-029,2.1,9,40986,10,97,no,1.38,0.67,400,g,IE,Vegan|Cruelty Free,nuts,BUNDLE-HAIR,3.3,Freight included
+TDR-3T1GX,Acme Beauty,DAI-037,1.12,24,39845,12,98,yes,1.38,1.02,75,units,ES,FSC packaging,none,BUNDLE-ORAL,1.5,Freight included
+TDR-3T1GX,OptiCare,DAI-037,1.15,6,40689,12,96,yes,0.51,0.11,500,ml,IE,-,milk,BUNDLE-ORAL,3.9,Rebate tied to volume
+TDR-3T1GX,Own Label Co.,DAI-037,1.24,6,63317,7,97,yes,0.0,0.94,150,L,IE,FSC packaging,nuts,BUNDLE-SKIN,1.8,Bundle available
+TDR-P2XYU,EuroChem,DAI-034,1.38,9,63487,8,98,no,0.0,0.72,300,L,ES,Vegan|Cruelty Free,-,BUNDLE-HAIR,1.9,Rebate tied to volume
+TDR-P2XYU,GreenFoods,DAI-034,1.44,12,57284,7,96,yes,0.18,0.0,500,L,IE,-,none,-,0.0,Stable supply
+TDR-P2XYU,OptiCare,DAI-034,1.47,24,42760,7,98,yes,1.75,2.05,75,g,ES,Vegan|Cruelty Free,-,BUNDLE-HAIR,1.4,Rebate tied to volume
+TDR-5QJ18,Acme Beauty,ORA-013,2.17,9,58926,14,96,yes,0.19,0.48,150,g,UK,Vegan,-,BUNDLE-ORAL,1.3,Bundle available
+TDR-5QJ18,GreenFoods,ORA-013,2.37,12,47139,9,96,yes,0.37,2.29,50,units,FR,-,none,BUNDLE-ORAL,3.6,Stable supply
+TDR-5QJ18,EuroChem,ORA-013,2.14,24,41299,14,99,no,1.42,0.2,50,g,DE,Vegan,nuts,BUNDLE-HAIR,2.3,Rebate tied to volume
+TDR-5QJ18,Niche Snacks,ORA-013,2.21,6,41932,9,96,yes,0.6,0.68,150,ml,DE,FSC packaging,nuts,-,0.0,Freight included
+TDR-AZKIK,Own Label Co.,SNA-028,1.78,6,56452,7,99,yes,2.38,1.89,150,ml,ES,Vegan,-,BUNDLE-HAIR,3.3,Bundle available
+TDR-AZKIK,GreenFoods,SNA-028,1.93,9,66032,9,99,no,0.36,0.4,75,units,DE,-,-,-,0.0,Freight included
+TDR-AZKIK,Regional Dairy,SNA-028,2.14,18,44521,14,97,yes,0.94,1.25,2000,ml,UK,Vegan|Cruelty Free,milk,-,0.0,Freight included
+TDR-AZKIK,OptiCare,SNA-028,2.03,18,42732,9,99,yes,1.93,0.57,500,g,UK,Vegan,nuts,BUNDLE-SKIN,3.6,Rebate tied to volume
+TDR-FVMSA,EuroChem,HAI-007,2.98,18,43681,14,97,yes,0.98,0.94,50,g,UK,Vegan|Cruelty Free,milk,BUNDLE-SKIN,3.9,Rebate tied to volume
+TDR-FVMSA,Unilever,HAI-007,3.23,18,30000,8,96,no,0.72,0.0,500,units,EU,FSC packaging,nuts,-,0.0,Freight included
+TDR-FVMSA,OptiCare,HAI-007,3.49,6,62678,10,99,yes,1.02,0.83,400,ml,DE,Vegan,nuts,BUNDLE-ORAL,2.3,Freight included
+TDR-EPJZ6,Own Label Co.,ORA-015,2.86,12,51263,7,99,yes,0.94,1.43,150,L,DE,Vegan|Cruelty Free,-,BUNDLE-SKIN,1.0,Winter LT risk
+TDR-EPJZ6,GreenFoods,ORA-015,3.42,12,65773,6,99,yes,1.03,0.0,150,units,ES,FSC packaging,milk,BUNDLE-SKIN,1.5,Bundle available
+TDR-EPJZ6,P&G,ORA-015,3.41,12,44963,8,98,yes,1.74,0.66,150,ml,UK,Vegan|Cruelty Free,milk,BUNDLE-HAIR,2.5,Bundle available
+TDR-12QGR,Regional Dairy,SNA-032,1.77,9,40537,6,98,no,0.52,0.52,400,g,FR,-,nuts,BUNDLE-SKIN,1.7,Rebate tied to volume
+TDR-12QGR,Niche Snacks,SNA-032,2.11,18,43078,6,96,no,1.29,1.5,50,ml,IE,FSC packaging,milk,BUNDLE-HAIR,1.8,Rebate tied to volume
+TDR-12QGR,OptiCare,SNA-032,1.94,9,45140,9,97,yes,1.3,0.69,90,ml,DE,FSC packaging,none,BUNDLE-ORAL,2.5,Freight included
+TDR-12QGR,EuroChem,SNA-032,1.85,18,37554,12,96,no,1.63,0.94,300,ml,DE,FSC packaging,milk,BUNDLE-SKIN,3.7,Bundle available
+TDR-12QGR,GreenFoods,SNA-032,1.8,24,46373,12,97,yes,2.19,0.58,2000,g,UK,-,milk,-,0.0,Stable supply
+TDR-JD6K5,Niche Snacks,HAI-010,2.34,6,41749,6,96,yes,0.86,0.74,150,L,UK,Vegan,nuts,BUNDLE-ORAL,3.2,Winter LT risk
+TDR-JD6K5,P&G,HAI-010,2.76,18,35366,9,97,yes,0.42,0.0,2000,ml,ES,Vegan,nuts,BUNDLE-SKIN,3.1,Bundle available
+TDR-JD6K5,Own Label Co.,HAI-010,2.65,18,56513,12,97,yes,1.64,1.77,150,L,UK,Vegan|Cruelty Free,nuts,BUNDLE-ORAL,2.3,Rebate tied to volume
+TDR-OOF39,Regional Dairy,ORA-017,3.0,12,50120,6,98,no,0.83,1.7,400,ml,PL,-,milk,BUNDLE-HAIR,1.3,Freight included
+TDR-OOF39,Acme Beauty,ORA-017,3.47,9,49862,7,98,yes,0.03,1.26,90,L,FR,Vegan,milk,-,0.0,Freight included
+TDR-OOF39,OptiCare,ORA-017,3.31,12,64594,10,96,no,2.36,0.8,90,L,DE,-,-,BUNDLE-HAIR,3.9,Stable supply
+TDR-MJ8WJ,P&G,ORA-017,2.89,12,54352,10,98,no,1.9,1.31,50,L,PL,Vegan,none,BUNDLE-SKIN,3.9,Freight included
+TDR-MJ8WJ,Acme Beauty,ORA-017,3.07,18,46687,10,99,yes,2.26,0.0,90,units,EU,-,milk,-,0.0,Freight included
+TDR-MJ8WJ,Unilever,ORA-017,3.08,6,30000,14,98,yes,0.74,0.68,50,g,ES,FSC packaging,milk,BUNDLE-HAIR,3.7,Rebate tied to volume
+TDR-6VY0D,EuroChem,SNA-032,1.86,12,62739,10,99,no,0.99,1.6,150,L,ES,Vegan|Cruelty Free,milk,BUNDLE-ORAL,1.6,Bundle available
+TDR-6VY0D,Own Label Co.,SNA-032,1.83,24,58197,10,96,yes,0.52,1.71,300,units,EU,-,-,-,0.0,Bundle available
+TDR-6VY0D,Regional Dairy,SNA-032,1.86,12,51640,9,97,yes,0.73,1.41,300,units,IE,Vegan|Cruelty Free,milk,BUNDLE-SKIN,2.0,Winter LT risk
+TDR-6VY0D,OptiCare,SNA-032,2.17,12,53828,12,98,no,0.0,0.81,50,ml,UK,Vegan,milk,BUNDLE-SKIN,3.5,Bundle available
+TDR-6VY0D,Unilever,SNA-032,1.96,9,36734,10,97,no,2.67,0.89,400,ml,FR,Vegan,none,BUNDLE-HAIR,1.2,Winter LT risk
+TDR-FYY5C,OptiCare,DAI-035,1.17,9,37385,14,98,no,0.0,0.95,2000,g,EU,Vegan,nuts,BUNDLE-SKIN,2.9,Bundle available
+TDR-FYY5C,Unilever,DAI-035,1.21,18,54299,6,96,yes,0.67,1.12,90,L,FR,Vegan|Cruelty Free,milk,BUNDLE-ORAL,3.3,Rebate tied to volume
+TDR-FYY5C,Acme Beauty,DAI-035,1.22,6,51644,10,99,no,0.06,1.42,300,L,PL,FSC packaging,milk,-,0.0,Stable supply
+TDR-W3F2H,P&G,DAI-041,0.9,24,30000,10,96,yes,0.57,2.21,400,L,FR,Vegan,none,BUNDLE-SKIN,2.5,Winter LT risk
+TDR-W3F2H,EuroChem,DAI-041,1.03,12,54866,9,97,no,0.28,1.81,2000,L,PL,-,nuts,-,0.0,Rebate tied to volume
+TDR-W3F2H,GreenFoods,DAI-041,0.91,6,37645,7,97,no,1.14,0.92,400,ml,IE,-,milk,BUNDLE-ORAL,3.3,Freight included
+TDR-W3F2H,Unilever,DAI-041,0.89,9,30542,7,96,no,0.88,0.93,300,units,DE,Vegan|Cruelty Free,none,BUNDLE-ORAL,4.0,Bundle available
+TDR-W3F2H,Regional Dairy,DAI-041,1.07,6,42547,12,96,no,0.0,0.47,50,units,IE,Vegan|Cruelty Free,milk,-,0.0,Freight included
+TDR-MW33Q,Regional Dairy,DAI-042,1.07,12,35824,6,96,yes,1.23,1.35,150,g,IE,Vegan,none,BUNDLE-SKIN,1.6,Stable supply
+TDR-MW33Q,Acme Beauty,DAI-042,1.26,24,51197,9,97,yes,1.1,0.0,2000,g,ES,Vegan|Cruelty Free,none,BUNDLE-ORAL,3.8,Rebate tied to volume
+TDR-MW33Q,GreenFoods,DAI-042,1.17,18,40862,7,99,no,1.5,0.0,300,L,EU,Vegan|Cruelty Free,-,-,0.0,Freight included
+TDR-G8KUE,Acme Beauty,HAI-012,2.15,24,47730,14,97,yes,0.79,1.04,50,units,DE,FSC packaging,none,-,0.0,Bundle available
+TDR-G8KUE,EuroChem,HAI-012,2.42,6,30000,12,98,yes,2.73,2.03,400,L,PL,Vegan|Cruelty Free,-,BUNDLE-ORAL,1.2,Freight included
+TDR-G8KUE,P&G,HAI-012,2.21,24,30000,8,98,no,0.58,0.0,400,g,IE,-,-,-,0.0,Winter LT risk
+TDR-G8KUE,GreenFoods,HAI-012,2.29,9,36602,9,99,yes,2.16,0.27,400,L,ES,FSC packaging,-,BUNDLE-ORAL,2.1,Stable supply
+TDR-G8KUE,Regional Dairy,HAI-012,2.51,9,80294,6,96,yes,1.6,1.37,400,L,EU,FSC packaging,-,BUNDLE-HAIR,2.1,Freight included
+TDR-UJ2P8,EuroChem,HAI-003,2.56,9,30000,8,96,yes,0.05,1.47,300,ml,IE,Vegan|Cruelty Free,milk,BUNDLE-ORAL,3.4,Stable supply
+TDR-UJ2P8,OptiCare,HAI-003,2.83,9,58612,6,96,no,1.75,0.42,150,ml,UK,-,-,BUNDLE-HAIR,2.9,Rebate tied to volume
+TDR-UJ2P8,Niche Snacks,HAI-003,3.05,24,35113,6,97,no,0.68,1.01,90,g,EU,Vegan|Cruelty Free,none,-,0.0,Rebate tied to volume
+TDR-EZYII,Niche Snacks,HAI-006,2.69,6,34750,7,97,yes,0.13,1.3,50,ml,PL,Vegan|Cruelty Free,none,BUNDLE-HAIR,1.1,Stable supply
+TDR-EZYII,P&G,HAI-006,2.96,12,34577,10,98,yes,0.12,1.37,50,L,IE,-,none,-,0.0,Bundle available
+TDR-EZYII,OptiCare,HAI-006,2.81,24,56322,7,97,yes,0.76,0.52,300,g,IE,Vegan,nuts,BUNDLE-HAIR,1.8,Bundle available
+TDR-EZYII,EuroChem,HAI-006,2.94,12,49151,12,98,yes,1.34,0.56,50,g,PL,Vegan,-,BUNDLE-ORAL,2.6,Freight included
+TDR-EZYII,Unilever,HAI-006,3.07,9,33584,14,98,no,0.12,0.4,90,units,FR,FSC packaging,-,-,0.0,Stable supply
+TDR-RT5A4,EuroChem,HAI-010,2.95,12,30000,9,97,yes,0.0,0.0,500,ml,EU,-,nuts,BUNDLE-SKIN,3.7,Stable supply
+TDR-RT5A4,Own Label Co.,HAI-010,3.35,6,37053,10,97,no,0.85,1.37,75,units,ES,Vegan|Cruelty Free,-,-,0.0,Winter LT risk
+TDR-RT5A4,GreenFoods,HAI-010,2.91,6,36608,6,97,yes,0.49,1.59,300,g,IE,Vegan|Cruelty Free,nuts,BUNDLE-HAIR,1.3,Stable supply
+TDR-RT5A4,Unilever,HAI-010,3.41,12,69052,12,98,yes,0.34,1.84,300,units,UK,-,none,-,0.0,Winter LT risk
+TDR-RT5A4,OptiCare,HAI-010,3.18,6,71485,8,99,no,0.72,1.36,75,ml,DE,Vegan,milk,BUNDLE-HAIR,2.9,Stable supply
+TDR-J59CY,OptiCare,SNA-030,1.21,9,47634,14,99,yes,1.99,0.43,400,g,ES,FSC packaging,none,-,0.0,Freight included
+TDR-J59CY,Unilever,SNA-030,1.34,6,54622,6,97,yes,0.16,0.74,75,L,DE,-,nuts,-,0.0,Rebate tied to volume
+TDR-J59CY,P&G,SNA-030,1.34,9,59396,12,97,yes,0.75,0.39,50,ml,DE,FSC packaging,milk,-,0.0,Rebate tied to volume
+TDR-EN3FA,Niche Snacks,SNA-027,1.41,6,57074,6,96,yes,1.24,0.87,75,g,DE,-,milk,-,0.0,Rebate tied to volume
+TDR-EN3FA,GreenFoods,SNA-027,1.4,12,52631,12,99,yes,1.73,0.72,500,ml,DE,FSC packaging,none,BUNDLE-SKIN,1.9,Stable supply
+TDR-EN3FA,Unilever,SNA-027,1.38,12,38855,14,98,yes,1.42,0.41,50,units,UK,Vegan|Cruelty Free,nuts,BUNDLE-HAIR,1.7,Bundle available
+TDR-DGLHY,Unilever,ORA-016,3.19,9,52564,7,98,yes,1.25,1.1,75,ml,UK,Vegan,milk,-,0.0,Rebate tied to volume
+TDR-DGLHY,GreenFoods,ORA-016,3.6,6,31834,6,97,no,1.39,0.68,400,L,EU,Vegan,none,-,0.0,Rebate tied to volume
+TDR-DGLHY,Niche Snacks,ORA-016,3.73,18,43972,10,99,yes,0.38,0.82,400,g,PL,Vegan|Cruelty Free,milk,BUNDLE-SKIN,1.9,Freight included
+TDR-DGLHY,Acme Beauty,ORA-016,3.44,18,60815,6,97,yes,0.98,0.58,300,g,ES,-,-,BUNDLE-SKIN,3.4,Freight included
+TDR-DGLHY,Own Label Co.,ORA-016,3.52,6,30048,10,98,yes,2.13,1.32,50,units,FR,-,milk,BUNDLE-SKIN,3.4,Rebate tied to volume
+TDR-TMUXH,Acme Beauty,HAI-004,2.63,18,49192,8,99,no,0.5,0.76,90,L,EU,FSC packaging,milk,BUNDLE-SKIN,1.1,Rebate tied to volume
+TDR-TMUXH,OptiCare,HAI-004,2.72,24,48828,6,97,yes,1.14,1.73,2000,ml,UK,Vegan|Cruelty Free,-,BUNDLE-HAIR,2.6,Freight included
+TDR-TMUXH,Own Label Co.,HAI-004,2.96,6,60308,14,98,yes,0.47,0.0,150,g,FR,-,none,-,0.0,Freight included
+TDR-WRE2X,P&G,SKI-049,3.43,12,47164,6,98,yes,1.22,1.66,2000,L,EU,-,nuts,BUNDLE-HAIR,2.5,Winter LT risk
+TDR-WRE2X,GreenFoods,SKI-049,3.82,12,64154,9,96,yes,1.92,0.96,150,ml,FR,FSC packaging,none,BUNDLE-SKIN,3.2,Rebate tied to volume
+TDR-WRE2X,OptiCare,SKI-049,3.79,12,58485,10,99,yes,0.2,0.0,75,L,DE,Vegan|Cruelty Free,none,BUNDLE-SKIN,3.9,Stable supply
+TDR-WRE2X,Regional Dairy,SKI-049,4.07,12,50238,8,97,yes,1.78,1.46,300,L,PL,-,none,BUNDLE-HAIR,1.6,Bundle available
+TDR-T9SSY,GreenFoods,SNA-032,1.9,24,41874,14,98,yes,0.49,1.23,150,g,IE,Vegan,-,BUNDLE-SKIN,3.4,Stable supply
+TDR-T9SSY,Own Label Co.,SNA-032,2.16,6,36547,9,97,yes,0.0,1.43,90,ml,PL,Vegan|Cruelty Free,none,BUNDLE-SKIN,3.7,Bundle available
+TDR-T9SSY,P&G,SNA-032,2.09,12,30000,7,98,yes,0.0,0.0,300,units,DE,Vegan|Cruelty Free,none,BUNDLE-ORAL,1.5,Bundle available
+TDR-T9SSY,Unilever,SNA-032,2.14,12,59641,6,97,no,0.99,1.16,90,units,UK,Vegan,milk,BUNDLE-HAIR,2.3,Rebate tied to volume
+TDR-XRTFP,OptiCare,HAI-011,3.38,12,48255,14,98,yes,0.0,0.84,75,L,PL,Vegan,none,BUNDLE-HAIR,3.4,Bundle available
+TDR-XRTFP,Acme Beauty,HAI-011,3.33,9,41435,7,96,no,0.24,1.02,300,units,ES,Vegan,none,-,0.0,Winter LT risk
+TDR-XRTFP,Regional Dairy,HAI-011,3.54,12,61240,8,98,no,1.59,1.04,500,L,ES,FSC packaging,nuts,BUNDLE-ORAL,3.2,Winter LT risk
+TDR-XRTFP,Unilever,HAI-011,3.97,12,39522,8,97,yes,0.92,1.18,50,g,FR,-,nuts,BUNDLE-ORAL,2.3,Freight included
+TDR-XRTFP,P&G,HAI-011,3.74,24,50940,12,98,no,0.11,0.58,90,units,EU,FSC packaging,milk,BUNDLE-SKIN,1.4,Rebate tied to volume

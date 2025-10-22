@@ -1,0 +1,210 @@
+sku_code,supplier,start_date,end_date,unit_cost,volume,awarded_by,comment
+DAI-034,EuroChem,2022-10-17,2023-04-15,0.99,33324,Evan,Seasonal demand uplift
+DAI-034,Niche Snacks,2023-04-15,2024-04-09,1.14,56815,Priya,Added PCR packaging
+DAI-034,Regional Dairy,2024-04-09,2024-10-06,1.54,55539,Evan,Added PCR packaging
+DAI-034,P&G,2024-10-06,2025-10-01,1.1,40692,Marta,Switched fragrance
+DAI-035,P&G,2021-10-22,2022-10-17,0.9,42398,Marta,Negotiated rebate
+DAI-035,P&G,2022-10-17,2023-10-12,1.09,22044,Liam,Logistics surcharge temporary
+DAI-035,Niche Snacks,2023-10-12,2025-04-04,1.26,56277,Marta,Seasonal demand uplift
+DAI-035,Regional Dairy,2025-04-04,2025-10-01,1.33,34438,Marta,Switched fragrance
+DAI-036,Own Label Co.,2022-04-20,2023-04-15,0.92,30887,Liam,Switched fragrance
+DAI-036,P&G,2023-04-15,2023-10-12,0.97,39692,Alex,Switched fragrance
+DAI-036,OptiCare,2023-10-12,2024-10-06,1.08,41232,Alex,Logistics surcharge temporary
+DAI-036,P&G,2024-10-06,2025-10-01,1.21,5000,Liam,Seasonal demand uplift
+DAI-037,EuroChem,2022-10-17,2023-10-12,1.12,50236,Marta,Switched fragrance
+DAI-037,Unilever,2023-10-12,2024-10-06,1.04,40404,Alex,Negotiated rebate
+DAI-037,Regional Dairy,2024-10-06,2025-10-01,1.2,58683,Marta,Seasonal demand uplift
+DAI-038,P&G,2021-04-25,2022-04-20,1.33,31298,Marta,Stable OTIF
+DAI-038,Unilever,2022-04-20,2023-01-15,1.17,5000,Priya,Switched fragrance
+DAI-038,Acme Beauty,2023-01-15,2024-01-10,1.27,55932,Marta,Locked resin index
+DAI-038,P&G,2024-01-10,2025-01-04,1.4,32548,Priya,Negotiated rebate
+DAI-038,OptiCare,2025-01-04,2025-10-01,1.21,50290,Priya,Stable OTIF
+DAI-039,OptiCare,2021-10-22,2022-10-17,1.06,61136,Evan,Stable OTIF
+DAI-039,GreenFoods,2022-10-17,2023-10-12,0.74,46533,Priya,Logistics surcharge temporary
+DAI-039,Own Label Co.,2023-10-12,2024-10-06,0.98,49680,Alex,Switched fragrance
+DAI-039,Niche Snacks,2024-10-06,2025-04-04,1.15,21959,Evan,Negotiated rebate
+DAI-039,Acme Beauty,2025-04-04,2025-10-01,1.25,34142,Marta,Switched fragrance
+DAI-040,Niche Snacks,2020-07-29,2021-07-24,0.95,51926,Priya,Switched fragrance
+DAI-040,EuroChem,2021-07-24,2022-04-20,0.98,57300,Marta,Bundle with conditioner
+DAI-040,EuroChem,2022-04-20,2023-04-15,1.05,52056,Evan,Added PCR packaging
+DAI-040,EuroChem,2023-04-15,2024-04-09,1.2,41399,Liam,Added PCR packaging
+DAI-040,Regional Dairy,2024-04-09,2025-10-01,1.52,48399,Evan,Negotiated rebate
+DAI-041,Acme Beauty,2022-10-17,2023-10-12,1.04,26537,Marta,Stable OTIF
+DAI-041,GreenFoods,2023-10-12,2024-07-08,1.09,42887,Marta,Logistics surcharge temporary
+DAI-041,Own Label Co.,2024-07-08,2025-01-04,0.96,41078,Alex,Locked resin index
+DAI-041,Niche Snacks,2025-01-04,2025-10-01,1.46,58561,Marta,Stable OTIF
+DAI-042,Regional Dairy,2022-07-19,2023-07-14,1.28,16855,Priya,Switched fragrance
+DAI-042,Acme Beauty,2023-07-14,2024-04-09,1.09,47386,Liam,Locked resin index
+DAI-042,Regional Dairy,2024-04-09,2025-10-01,0.98,55858,Alex,Locked resin index
+HAI-001,OptiCare,2021-01-25,2022-01-20,2.02,63250,Evan,Logistics surcharge temporary
+HAI-001,Regional Dairy,2022-01-20,2023-07-14,2.53,18679,Evan,Locked resin index
+HAI-001,P&G,2023-07-14,2025-01-04,2.33,93013,Priya,Negotiated rebate
+HAI-001,OptiCare,2025-01-04,2025-10-01,3.43,38010,Evan,Locked resin index
+HAI-002,Regional Dairy,2023-01-15,2023-07-14,2.48,46858,Evan,Added PCR packaging
+HAI-002,Unilever,2023-07-14,2024-04-09,2.49,43752,Liam,Stable OTIF
+HAI-002,OptiCare,2024-04-09,2025-10-01,2.6,41079,Evan,Locked resin index
+HAI-003,P&G,2021-04-25,2022-10-17,2.18,10675,Liam,Negotiated rebate
+HAI-003,Regional Dairy,2022-10-17,2023-04-15,1.99,42647,Priya,Locked resin index
+HAI-003,Niche Snacks,2023-04-15,2024-10-06,3.14,47315,Liam,Added PCR packaging
+HAI-003,Own Label Co.,2024-10-06,2025-10-01,2.66,46553,Liam,Locked resin index
+HAI-004,EuroChem,2020-10-27,2022-04-20,2.1,68548,Priya,Seasonal demand uplift
+HAI-004,P&G,2022-04-20,2023-01-15,2.87,40058,Liam,Switched fragrance
+HAI-004,Niche Snacks,2023-01-15,2024-01-10,2.79,26207,Alex,Added PCR packaging
+HAI-004,EuroChem,2024-01-10,2025-01-04,1.99,53031,Liam,Seasonal demand uplift
+HAI-004,EuroChem,2025-01-04,2025-10-01,2.65,54000,Liam,Stable OTIF
+HAI-005,Acme Beauty,2021-07-24,2022-07-19,2.48,20018,Liam,Seasonal demand uplift
+HAI-005,Unilever,2022-07-19,2023-07-14,2.25,48788,Evan,Bundle with conditioner
+HAI-005,Acme Beauty,2023-07-14,2024-04-09,2.69,72693,Alex,Seasonal demand uplift
+HAI-005,P&G,2024-04-09,2025-10-01,2.67,78713,Evan,Stable OTIF
+HAI-006,P&G,2020-07-29,2021-04-25,2.17,27300,Marta,Negotiated rebate
+HAI-006,Unilever,2021-04-25,2022-04-20,1.88,27665,Marta,Bundle with conditioner
+HAI-006,EuroChem,2022-04-20,2023-10-12,2.24,70493,Priya,Stable OTIF
+HAI-006,P&G,2023-10-12,2024-10-06,2.38,33542,Evan,Switched fragrance
+HAI-006,P&G,2024-10-06,2025-10-01,2.75,62896,Evan,Switched fragrance
+HAI-007,OptiCare,2022-10-17,2023-10-12,3.01,54097,Liam,Switched fragrance
+HAI-007,EuroChem,2023-10-12,2024-10-06,3.22,41809,Evan,Added PCR packaging
+HAI-007,Own Label Co.,2024-10-06,2025-10-01,2.82,54405,Alex,Stable OTIF
+HAI-008,Own Label Co.,2023-04-15,2023-10-12,2.53,36138,Alex,Logistics surcharge temporary
+HAI-008,OptiCare,2023-10-12,2024-10-06,2.36,51817,Alex,Added PCR packaging
+HAI-008,GreenFoods,2024-10-06,2025-10-01,2.69,18329,Priya,Stable OTIF
+HAI-009,GreenFoods,2021-04-25,2022-04-20,2.32,27322,Marta,Stable OTIF
+HAI-009,GreenFoods,2022-04-20,2023-01-15,3.27,58035,Liam,Negotiated rebate
+HAI-009,GreenFoods,2023-01-15,2024-01-10,1.91,9090,Priya,Bundle with conditioner
+HAI-009,Niche Snacks,2024-01-10,2025-01-04,2.43,55149,Evan,Added PCR packaging
+HAI-009,Unilever,2025-01-04,2025-10-01,3.34,24182,Marta,Added PCR packaging
+HAI-010,Unilever,2021-10-22,2023-04-15,2.28,37038,Evan,Negotiated rebate
+HAI-010,Own Label Co.,2023-04-15,2024-04-09,3.16,47352,Evan,Bundle with conditioner
+HAI-010,Regional Dairy,2024-04-09,2024-10-06,2.42,50709,Evan,Logistics surcharge temporary
+HAI-010,P&G,2024-10-06,2025-10-01,2.54,23353,Marta,Stable OTIF
+HAI-011,EuroChem,2020-07-29,2021-01-25,2.39,38563,Marta,Seasonal demand uplift
+HAI-011,Acme Beauty,2021-01-25,2022-01-20,2.4,35796,Marta,Locked resin index
+HAI-011,OptiCare,2022-01-20,2023-07-14,1.87,47743,Alex,Switched fragrance
+HAI-011,Unilever,2023-07-14,2025-01-04,2.84,30291,Evan,Logistics surcharge temporary
+HAI-011,GreenFoods,2025-01-04,2025-10-01,3.35,38128,Evan,Bundle with conditioner
+HAI-012,GreenFoods,2021-07-24,2022-04-20,2.41,49254,Evan,Switched fragrance
+HAI-012,Unilever,2022-04-20,2023-10-12,3.14,41498,Alex,Bundle with conditioner
+HAI-012,Niche Snacks,2023-10-12,2024-10-06,2.99,46959,Marta,Added PCR packaging
+HAI-012,P&G,2024-10-06,2025-10-01,2.19,41815,Alex,Locked resin index
+ORA-013,Unilever,2022-01-20,2023-01-15,2.42,38433,Evan,Switched fragrance
+ORA-013,Regional Dairy,2023-01-15,2023-10-12,2.12,50599,Liam,Seasonal demand uplift
+ORA-013,Regional Dairy,2023-10-12,2024-07-08,2.38,40166,Alex,Stable OTIF
+ORA-013,Acme Beauty,2024-07-08,2025-04-04,2.65,48145,Alex,Bundle with conditioner
+ORA-013,Niche Snacks,2025-04-04,2025-10-01,2.46,30605,Liam,Bundle with conditioner
+ORA-014,Acme Beauty,2022-04-20,2023-01-15,3.35,26844,Alex,Seasonal demand uplift
+ORA-014,P&G,2023-01-15,2023-10-12,3.06,18095,Alex,Seasonal demand uplift
+ORA-014,Acme Beauty,2023-10-12,2024-10-06,2.42,35515,Priya,Locked resin index
+ORA-014,Regional Dairy,2024-10-06,2025-10-01,2.77,37276,Liam,Bundle with conditioner
+ORA-015,Own Label Co.,2021-10-22,2022-04-20,2.3,32816,Alex,Added PCR packaging
+ORA-015,OptiCare,2022-04-20,2022-10-17,2.99,55109,Marta,Stable OTIF
+ORA-015,Own Label Co.,2022-10-17,2023-10-12,3.17,22540,Marta,Bundle with conditioner
+ORA-015,P&G,2023-10-12,2024-04-09,3.02,64319,Marta,Logistics surcharge temporary
+ORA-015,Unilever,2024-04-09,2025-10-01,2.52,56380,Marta,Bundle with conditioner
+ORA-016,Unilever,2023-07-14,2024-01-10,2.87,34702,Evan,Added PCR packaging
+ORA-016,Own Label Co.,2024-01-10,2025-01-04,3.34,53411,Liam,Added PCR packaging
+ORA-016,EuroChem,2025-01-04,2025-10-01,1.99,20985,Alex,Seasonal demand uplift
+ORA-017,Unilever,2022-01-20,2022-10-17,2.35,60730,Priya,Seasonal demand uplift
+ORA-017,Acme Beauty,2022-10-17,2024-04-09,2.94,62069,Priya,Stable OTIF
+ORA-017,Niche Snacks,2024-04-09,2025-01-04,3.56,48564,Liam,Logistics surcharge temporary
+ORA-017,Regional Dairy,2025-01-04,2025-10-01,2.98,63289,Evan,Switched fragrance
+ORA-018,P&G,2019-08-04,2021-01-25,2.71,56827,Liam,Negotiated rebate
+ORA-018,Own Label Co.,2021-01-25,2021-10-22,2.38,65834,Alex,Seasonal demand uplift
+ORA-018,Own Label Co.,2021-10-22,2022-10-17,3.22,47205,Liam,Negotiated rebate
+ORA-018,Own Label Co.,2022-10-17,2024-04-09,2.84,34985,Liam,Negotiated rebate
+ORA-018,GreenFoods,2024-04-09,2025-10-01,2.44,75956,Marta,Added PCR packaging
+ORA-019,EuroChem,2021-07-24,2023-01-15,2.73,45587,Liam,Negotiated rebate
+ORA-019,Niche Snacks,2023-01-15,2023-10-12,2.9,50325,Evan,Locked resin index
+ORA-019,GreenFoods,2023-10-12,2024-04-09,2.4,40247,Evan,Logistics surcharge temporary
+ORA-019,GreenFoods,2024-04-09,2025-10-01,2.29,62341,Liam,Seasonal demand uplift
+ORA-020,Regional Dairy,2022-04-20,2023-10-12,2.61,31539,Liam,Switched fragrance
+ORA-020,EuroChem,2023-10-12,2024-10-06,2.58,41591,Liam,Seasonal demand uplift
+ORA-020,Acme Beauty,2024-10-06,2025-10-01,3.5,32749,Liam,Logistics surcharge temporary
+ORA-021,Own Label Co.,2022-04-20,2023-04-15,2.35,49264,Priya,Added PCR packaging
+ORA-021,Niche Snacks,2023-04-15,2024-01-10,2.34,69197,Evan,Added PCR packaging
+ORA-021,Regional Dairy,2024-01-10,2024-07-08,2.8,37212,Marta,Locked resin index
+ORA-021,OptiCare,2024-07-08,2025-01-04,3.12,44821,Marta,Bundle with conditioner
+ORA-021,EuroChem,2025-01-04,2025-10-01,3.53,33895,Alex,Stable OTIF
+SKI-043,Niche Snacks,2021-07-24,2022-01-20,2.49,9820,Alex,Stable OTIF
+SKI-043,Acme Beauty,2022-01-20,2023-01-15,2.52,18310,Alex,Logistics surcharge temporary
+SKI-043,Acme Beauty,2023-01-15,2024-01-10,2.83,46769,Evan,Seasonal demand uplift
+SKI-043,GreenFoods,2024-01-10,2025-01-04,2.63,49454,Alex,Stable OTIF
+SKI-043,Unilever,2025-01-04,2025-10-01,3.11,55162,Marta,Stable OTIF
+SKI-044,GreenFoods,2021-07-24,2022-07-19,2.9,45418,Marta,Seasonal demand uplift
+SKI-044,EuroChem,2022-07-19,2024-01-10,2.87,33261,Evan,Locked resin index
+SKI-044,Unilever,2024-01-10,2024-10-06,3.19,29743,Marta,Seasonal demand uplift
+SKI-044,OptiCare,2024-10-06,2025-10-01,2.74,25526,Priya,Negotiated rebate
+SKI-045,Unilever,2022-04-20,2023-10-12,2.41,26097,Evan,Added PCR packaging
+SKI-045,P&G,2023-10-12,2025-04-04,3.45,52090,Marta,Locked resin index
+SKI-045,Regional Dairy,2025-04-04,2025-10-01,3.89,37682,Alex,Added PCR packaging
+SKI-046,P&G,2022-10-17,2023-04-15,3.05,41890,Priya,Logistics surcharge temporary
+SKI-046,GreenFoods,2023-04-15,2024-04-09,2.65,40175,Marta,Locked resin index
+SKI-046,Unilever,2024-04-09,2025-10-01,3.62,89400,Priya,Added PCR packaging
+SKI-047,Regional Dairy,2021-10-22,2023-04-15,3.5,51417,Liam,Logistics surcharge temporary
+SKI-047,Acme Beauty,2023-04-15,2024-04-09,3.04,31604,Alex,Seasonal demand uplift
+SKI-047,GreenFoods,2024-04-09,2024-10-06,3.21,32558,Priya,Seasonal demand uplift
+SKI-047,Regional Dairy,2024-10-06,2025-10-01,2.65,50070,Liam,Negotiated rebate
+SKI-048,Regional Dairy,2023-01-15,2024-01-10,3.21,35010,Marta,Bundle with conditioner
+SKI-048,EuroChem,2024-01-10,2024-10-06,3.29,28147,Marta,Locked resin index
+SKI-048,Niche Snacks,2024-10-06,2025-10-01,3.48,15870,Evan,Negotiated rebate
+SKI-049,GreenFoods,2022-10-17,2023-10-12,2.97,47171,Evan,Logistics surcharge temporary
+SKI-049,OptiCare,2023-10-12,2024-10-06,3.59,54870,Alex,Negotiated rebate
+SKI-049,Unilever,2024-10-06,2025-10-01,3.78,5000,Priya,Stable OTIF
+SKI-050,EuroChem,2022-10-17,2023-07-14,3.5,15861,Marta,Negotiated rebate
+SKI-050,EuroChem,2023-07-14,2024-01-10,2.78,34312,Liam,Added PCR packaging
+SKI-050,Regional Dairy,2024-01-10,2025-01-04,3.4,35293,Priya,Switched fragrance
+SKI-050,Niche Snacks,2025-01-04,2025-10-01,3.07,64448,Alex,Logistics surcharge temporary
+SKI-051,Regional Dairy,2022-01-20,2023-01-15,3.02,50068,Alex,Seasonal demand uplift
+SKI-051,P&G,2023-01-15,2024-01-10,2.4,34651,Evan,Added PCR packaging
+SKI-051,Own Label Co.,2024-01-10,2024-07-08,3.22,61214,Marta,Seasonal demand uplift
+SKI-051,Own Label Co.,2024-07-08,2025-01-04,3.65,16924,Marta,Negotiated rebate
+SKI-051,OptiCare,2025-01-04,2025-10-01,3.9,49523,Evan,Logistics surcharge temporary
+SNA-022,Acme Beauty,2022-01-20,2022-10-17,1.74,41552,Priya,Locked resin index
+SNA-022,OptiCare,2022-10-17,2024-04-09,1.54,53947,Priya,Stable OTIF
+SNA-022,Regional Dairy,2024-04-09,2025-01-04,1.86,27406,Alex,Stable OTIF
+SNA-022,P&G,2025-01-04,2025-10-01,2.21,5000,Marta,Seasonal demand uplift
+SNA-023,Niche Snacks,2020-10-27,2021-10-22,1.68,37787,Evan,Added PCR packaging
+SNA-023,Regional Dairy,2021-10-22,2022-04-20,1.32,50655,Evan,Locked resin index
+SNA-023,Niche Snacks,2022-04-20,2023-10-12,2.26,42195,Liam,Locked resin index
+SNA-023,Unilever,2023-10-12,2024-10-06,1.79,30059,Marta,Bundle with conditioner
+SNA-023,Unilever,2024-10-06,2025-10-01,1.96,40210,Priya,Seasonal demand uplift
+SNA-024,OptiCare,2022-07-19,2023-04-15,1.35,33317,Evan,Switched fragrance
+SNA-024,P&G,2023-04-15,2024-04-09,1.91,34141,Priya,Negotiated rebate
+SNA-024,GreenFoods,2024-04-09,2025-01-04,1.9,36033,Liam,Seasonal demand uplift
+SNA-024,OptiCare,2025-01-04,2025-10-01,1.8,49637,Priya,Stable OTIF
+SNA-025,Acme Beauty,2024-04-09,2024-10-06,1.3,41655,Liam,Stable OTIF
+SNA-025,Niche Snacks,2024-10-06,2025-04-04,1.23,40402,Evan,Seasonal demand uplift
+SNA-025,Niche Snacks,2025-04-04,2025-10-01,1.26,58551,Evan,Logistics surcharge temporary
+SNA-026,Regional Dairy,2021-07-24,2023-01-15,2.0,45126,Priya,Seasonal demand uplift
+SNA-026,Regional Dairy,2023-01-15,2023-10-12,1.81,52459,Priya,Switched fragrance
+SNA-026,Own Label Co.,2023-10-12,2024-04-09,1.79,44542,Priya,Negotiated rebate
+SNA-026,Own Label Co.,2024-04-09,2025-10-01,2.01,64833,Evan,Logistics surcharge temporary
+SNA-027,GreenFoods,2020-10-27,2021-10-22,1.59,24126,Marta,Switched fragrance
+SNA-027,EuroChem,2021-10-22,2022-07-19,1.52,27050,Evan,Stable OTIF
+SNA-027,GreenFoods,2022-07-19,2024-01-10,1.19,41562,Alex,Seasonal demand uplift
+SNA-027,Unilever,2024-01-10,2025-01-04,1.39,48869,Evan,Negotiated rebate
+SNA-027,Niche Snacks,2025-01-04,2025-10-01,1.72,59252,Priya,Negotiated rebate
+SNA-028,GreenFoods,2021-07-24,2022-07-19,1.45,48471,Priya,Logistics surcharge temporary
+SNA-028,Own Label Co.,2022-07-19,2023-07-14,1.48,22790,Evan,Locked resin index
+SNA-028,Unilever,2023-07-14,2024-04-09,1.86,44187,Evan,Switched fragrance
+SNA-028,OptiCare,2024-04-09,2025-01-04,1.64,50980,Priya,Negotiated rebate
+SNA-028,Regional Dairy,2025-01-04,2025-10-01,1.68,49564,Priya,Logistics surcharge temporary
+SNA-029,Own Label Co.,2021-04-25,2022-04-20,1.74,40075,Evan,Bundle with conditioner
+SNA-029,Unilever,2022-04-20,2023-01-15,1.29,35307,Priya,Logistics surcharge temporary
+SNA-029,Acme Beauty,2023-01-15,2024-01-10,1.65,24838,Priya,Bundle with conditioner
+SNA-029,Niche Snacks,2024-01-10,2024-10-06,1.99,23381,Marta,Negotiated rebate
+SNA-029,Unilever,2024-10-06,2025-10-01,1.55,36480,Marta,Added PCR packaging
+SNA-030,Unilever,2022-01-20,2023-07-14,1.45,41469,Marta,Negotiated rebate
+SNA-030,P&G,2023-07-14,2024-07-08,1.68,46087,Alex,Stable OTIF
+SNA-030,GreenFoods,2024-07-08,2025-04-04,1.26,51663,Evan,Locked resin index
+SNA-030,EuroChem,2025-04-04,2025-10-01,2.17,33949,Priya,Logistics surcharge temporary
+SNA-031,GreenFoods,2022-01-20,2022-07-19,1.28,41161,Marta,Added PCR packaging
+SNA-031,Niche Snacks,2022-07-19,2023-04-15,1.66,52851,Liam,Added PCR packaging
+SNA-031,OptiCare,2023-04-15,2024-10-06,1.63,47927,Priya,Seasonal demand uplift
+SNA-031,Regional Dairy,2024-10-06,2025-10-01,2.01,60080,Evan,Added PCR packaging
+SNA-032,Niche Snacks,2020-04-30,2021-04-25,1.61,44264,Evan,Seasonal demand uplift
+SNA-032,Unilever,2021-04-25,2022-10-17,1.68,43758,Evan,Logistics surcharge temporary
+SNA-032,P&G,2022-10-17,2023-10-12,1.73,27153,Marta,Seasonal demand uplift
+SNA-032,Unilever,2023-10-12,2024-04-09,1.97,31345,Evan,Added PCR packaging
+SNA-032,Unilever,2024-04-09,2025-10-01,1.94,71685,Liam,Logistics surcharge temporary
+SNA-033,Regional Dairy,2022-07-19,2023-04-15,1.98,47021,Alex,Seasonal demand uplift
+SNA-033,Niche Snacks,2023-04-15,2024-04-09,1.68,42371,Evan,Switched fragrance
+SNA-033,GreenFoods,2024-04-09,2025-10-01,1.74,9467,Evan,Locked resin index
